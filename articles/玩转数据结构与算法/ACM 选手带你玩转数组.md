@@ -75,7 +75,7 @@ address[i] = address[0] + i
 
 # 数组的操作
 
-从上面可以看出，连续内存存储使得数组有一个天然的优势，这个优势就是可以**根据下标，快速的随意访问任意一个位置的数****组元素。**
+从上面可以看出，连续内存存储使得数组有一个天然的优势，这个优势就是可以**根据下标，快速的随意访问任意一个位置的数组元素。**
 
 因为数组可以保证不管你访问哪个元素，只要给出下标，只需进行一次操作，就可以定位到元素的位置，从而拿出这个位置上的值。
 
@@ -133,16 +133,3 @@ print(lst[4])
 
 
 
----
-
-到这里，简单的数组就讲完啦，能忍着看到这的都是真爱呀。码字码的手都痛啦，**点赞么么哒**给我刷起来～
-
-我是蛋蛋，咱们下次见～
-
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230929248_0.jpg" alt="fed1d42f10f4e42f74a187885538c6a" style="zoom:67%;" />
-
-
-
-[**推荐阅读 👍：ACM 选手带你玩转时间复杂度和空间复杂度**](https://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475918746&idx=1&sn=3fe42234a1f07fb084d11fe06fb24893&chksm=ff22e217c8556b019b9052f9d4805174385ba4c8c099216fa226dbd1b033a9a49782579e4b75&scene=21#wechat_redirect)
-
-[**推荐阅读 👍：ACM 选手带你玩转数组**](https://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475918890&idx=1&sn=b5dbd85bbe358d7b1668e2d9c27e2122&chksm=ff22e1a7c85568b122279e836dec029dcc9b6a8049cf84c659ccff6f69eb29e6187912b1de66&token=2003688948&lang=zh_CN#rd)
