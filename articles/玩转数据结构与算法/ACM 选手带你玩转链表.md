@@ -1,6 +1,6 @@
 大家好呀，我是蛋蛋。
 
-**[数组的文章](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475918890&idx=1&sn=b5dbd85bbe358d7b1668e2d9c27e2122&chksm=ff22e1a7c85568b122279e836dec029dcc9b6a8049cf84c659ccff6f69eb29e6187912b1de66&scene=21#wechat_redirect)**中给臭宝们说过，连续的内存使得数组在进行插入和删除时需要移动大量元素，这就意味着要耗费时间。
+[数组的文章](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475918890&idx=1&sn=b5dbd85bbe358d7b1668e2d9c27e2122&chksm=ff22e1a7c85568b122279e836dec029dcc9b6a8049cf84c659ccff6f69eb29e6187912b1de66&scene=21#wechat_redirect)中给臭宝们说过，连续的内存使得数组在进行插入和删除时需要移动大量元素，这就意味着要耗费时间。
 
 在数据结构与算法中，快男才是大家的最爱，像插入和删除这么持久的蓝孩子显然不受待见。
 
