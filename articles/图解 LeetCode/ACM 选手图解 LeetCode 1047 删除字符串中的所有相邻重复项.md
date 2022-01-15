@@ -46,8 +46,8 @@
 
 
 
-**[栈，你告诉我这个括号配不配！](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475920000&idx=1&sn=4d94d8c1fc33e43940a253c50f130252&chksm=ff22ed0dc855641baf002c72356fe58beb233e9dd9ff01875deab483728c2ebd5bf73f353e89&scene=21#wechat_redirect)
-**
+[栈，你告诉我这个括号配不配！](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475920000&idx=1&sn=4d94d8c1fc33e43940a253c50f130252&chksm=ff22ed0dc855641baf002c72356fe58beb233e9dd9ff01875deab483728c2ebd5bf73f353e89&scene=21#wechat_redirect)
+
 
 这种类型的题都算是匹配问题，**只要是匹配问题，大家记住，在没有思路的时候，都可以考虑用栈碰一碰**。
 
@@ -79,15 +79,27 @@ stack = []
 
 所以第 1 步，当前元素为 a，栈为空，所以元素 a 入栈。
 
-![6ff8db8534a48f0da8247d21a384e8e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170036175_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170036175_0.jpg" alt="6ff8db8534a48f0da8247d21a384e8e"  />
+
+</div>
 
 第 2 步，当前元素为 b，此时栈顶元素为 a，两者不相等，所以元素 b 入栈。
 
-![1196118d8fba6357150739c12ce1165](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170052282_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170052282_0.jpg" alt="1196118d8fba6357150739c12ce1165"  />
+
+</div>
 
 接下来第 3 步，当前元素为 b，栈顶元素为 b，两者相等，栈顶元素出栈。
 
-![22af199d53f7e87d501f57ab54964e6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170107813_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170107813_0.jpg" alt="22af199d53f7e87d501f57ab54964e6"  />
+
+</div>
 
 ```Python
 for char in s: 
@@ -97,13 +109,21 @@ for char in s:
 
 之后第 4 步，当前元素为 a，栈顶元素为 a，这就是由于删除两个相邻且相同的字符，产生了新的相邻且相同的字符。
 
+<div align=center>
+
 ![d572722e0769d45a0127719121695f7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170138102_0.jpg)
+
+</div>
 
 最后两步没有相同的，直接入栈，输出栈内元素即可。
 
 在这提醒一下**编程语言直接用“栈”这个结构的，输出的时候要反转下字符串**。
 
-![2b7819f489cfcdb21dc3b134d907974](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170156784_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170156784_0.jpg" alt="2b7819f489cfcdb21dc3b134d907974"  />
+
+</div>
 
 因为从头到尾只遍历字符串 S 一次，所以**时间复杂度为 O(n)**。
 
