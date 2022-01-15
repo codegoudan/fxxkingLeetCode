@@ -1,10 +1,10 @@
 **判断括号是否有效**，常见题。
 
-
+<div align=center>
 
 ![800b54ae3d38699d34a6850c59e32f2](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163457389_0.jpg)
 
-
+</div>
 
 # LeetCode 20：有效的括号
 
@@ -88,7 +88,11 @@ pairs = {
 
 根据“题目解析”中说的，碰到左括号入栈，所以第 1 步，"(" 入栈
 
+<div align=center>
+
 ![dbfae677c5743da82cc10f22996acf3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163706223_0.jpg)
+
+</div>
 
 ```Python
 for i in s:
@@ -99,23 +103,43 @@ for i in s:
 
 接下来碰到右括号 ")"，取出栈顶元素 "("，判断栈顶元素是否和当前右括号配对，结果发现配对。
 
+<div align=center>
+
 ![726e46f80b802f35ae773f65e780e96](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163742461_0.jpg)
+
+</div>
 
 既然匹配，那就继续进行下 1 步，接下来碰到左括号 "["，入栈。
 
+<div align=center>
+
 ![af05284c5bc67f124a056e26069df18](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163802435_0.jpg)
+
+</div>
 
 接下来碰到右括号 "]"，取出栈顶元素 "["，判断栈顶元素是否和当前右括号配对，结果发现配对。
 
+<div align=center>
+
 ![4c1acb1bf9571ffe7e1cff40652095a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163829144_0.jpg)
+
+</div>
 
 既然又匹配，那就继续进行下 1 步，接下来碰到左括号 "{"，入栈。
 
+<div align=center>
+
 ![8443419385ca8d34d667ac39f22405a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163849155_0.jpg)
+
+</div>
 
 接下来碰到右括号 "}"，取出栈顶元素 "{"，判断栈顶元素是否和当前右括号配对，结果发现配对。
 
+<div align=center>
+
 ![d3fedaddcc21517ef00bec28b1444e2](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163907396_0.jpg)
+
+</div>
 
 此时字符串全部遍历完，同时栈也为空，字符串 s 有效，返回 true。
 
@@ -127,11 +151,19 @@ for i in s:
 
 前两个元素都是左括号，所以直接入栈。
 
+<div align=center>
+
 ![b0e680768370c80ca081609a344506b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_163953179_0.jpg)
+
+</div>
 
 啥接下来碰到右括号 ")"，取出栈顶元素 "["，栈顶元素与右括号不匹配，返回 false。
 
+<div align=center>
+
 ![afb94fb6342da1b1113d30244bb3734](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_164013549_0.jpg)
+
+</div>
 
 ```Python
 # 在遍历过程中，碰到空栈或者括号不匹配，返回 False。
