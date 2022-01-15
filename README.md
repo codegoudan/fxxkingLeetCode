@@ -110,3 +110,4 @@
 ### 实战
 
 1. [ACM 选手图解 LeetCode 有效的括号](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%2020%20%E6%9C%89%E6%95%88%E7%9A%84%E6%8B%AC%E5%8F%B7.md)
+2. [ACM 选手图解 LeetCode 删除字符串中的所有相邻重复项](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%201047%20%E5%88%A0%E9%99%A4%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E6%89%80%E6%9C%89%E7%9B%B8%E9%82%BB%E9%87%8D%E5%A4%8D%E9%A1%B9.md)
