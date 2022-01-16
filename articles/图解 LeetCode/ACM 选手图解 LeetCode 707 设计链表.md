@@ -1,6 +1,10 @@
 设计链表，强行学明白链表的 5 种操作。
 
+<div align=center>
+
 ![ba9a470198d6f15114b7f737a5e6267](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_225306850_0.jpg)
+
+</div>
 
 
 
@@ -24,7 +28,11 @@
 
 ## 示例
 
+<div align=center>
+
 ![805c778b729255ff554dbd2d851d872](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_225559788_0.jpg)
+
+</div>
 
 
 
@@ -87,7 +95,11 @@ def __init__(self):
 
 get(index) ，查找节点，没啥好说的，就是傻傻的从第 1 个节点开始找。时间复杂度 O(n)。
 
+<div align=center>
+
 ![bfa0c5719c253c4c3621f59dac0f62f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230056881_0.jpg)
+
+</div>
 
 addAtHead(val) ，在链表第一个节点前插入一个节点，很好插，找到第一个节点的前驱节点就好，在这就是头节点。
 
@@ -99,13 +111,21 @@ addAtHead(val) ，在链表第一个节点前插入一个节点，很好插，�
 
 在下图对应的是值为 10 的节点先指向值为 11 的节点，然后值为 0 的头节点再指向值为 10 的节点。
 
+<div align=center>
+
 ![3e166aabb6637f936a0fcd544405716](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230136276_0.jpg)
+
+</div>
 
 同理，addAtTail(val) 在链表最后一个节点后插入节点，也很简单，要插入的节点位置的前驱节点就是最后一个节点。
 
 因为在最后一个，时间复杂度 O(n)。
 
+<div align=center>
+
 ![397ae4bcd286fa2dc7d08bc3f1f07c5](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230200671_0.jpg)
+
+</div>
 
 addAtIndex(index, val)，在链表的第 index 节点前插入一个节点，其实这个就是插入的通用操作。
 
@@ -115,13 +135,21 @@ addAtHead(val) 相当于 addAtIndex(0, val)。
 
 addAtTail(val) 相当于 addAtIndex(length, val)。
 
+<div align=center>
+
 ![f59e7add21395b30d3bf0031d7f9264](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230224419_0.jpg)
+
+</div>
 
 deleteAtIndex(index)，删除链表的第 index 个节点，同样是找到要删除节点的前驱节点，通过改变节点后继指针来删除。
 
 同理，删除链表的时间复杂度也是 O(n)。
 
+<div align=center>
+
 ![d4801498e49603d90bd98274bef8a73](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230246269_0.jpg)
+
+</div>
 
 
 

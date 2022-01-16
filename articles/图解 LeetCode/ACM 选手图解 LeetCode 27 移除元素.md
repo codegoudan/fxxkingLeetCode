@@ -1,8 +1,10 @@
 **移除元素**，是**快慢指针的经典题目**。
 
+<div align=center>
+
 ![10c1045ba37361eaa7aed40a7b96568](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181156126_0.jpg)
 
-
+</div>
 
 # LeetCode 27：移除元素
 
@@ -56,7 +58,11 @@
 
 虽然也能 AC，但显然作为新时代的三好男人，本帅蛋在这方面追求的肯定不是慢，而是秒男的极致，我要快！
 
+<div align=center>
+
 ![531419fc699416d94ae936e8eec5a28](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181403277_0.jpg)
+
+</div>
 
 要我快点的话，这就不得不提**快慢指针**了。
 
@@ -77,7 +83,11 @@
 
 首先初始化 fast 和 slow 指针。
 
+<div align=center>
+
 ![cd1c475a49930e45c4bb51feb3a7271](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181510203_0.jpg)
+
+</div>
 
 ```Python
 # 初始化快慢指针
@@ -90,7 +100,11 @@ fast = slow = 0
 
 此时 nums[slow] = nums[fast]（虽然它俩现在本来就是一个），slow 和 fast 向后移动一位。
 
+<div align=center>
+
 ![25876de145355d74e629646b3e36e40](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181544348_0.jpg)
+
+</div>
 
 ```Python
 # 如果快指针指向的值不等于 val
@@ -105,13 +119,21 @@ if nums[fast] != val:
 
 此时nums[slow] = nums[fast]，slow 和 fast 向后移动一位。
 
+<div align=center>
+
 ![4bc2813c314ec1ff1f15b55247ae5b3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181616368_0.jpg)
+
+</div>
 
 第 3 步，fast = 2，slow = 2，此时 nums[fast] = 2，等于 val。
 
 此时 fast 向后移动一位，slow 不动。
 
+<div align=center>
+
 ![8e3592db04761a2d481077f57ddba9e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181637893_0.jpg)
+
+</div>
 
 ```Python
 # 如果快指针指向的值等于 val
@@ -123,25 +145,41 @@ fast += 1
 
 所以还是 fast 向后移动一位，slow 不动。
 
+<div align=center>
+
 ![3198d260886f3edf211d0e3bb40ce02](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181716945_0.jpg)
+
+</div>
 
 第 5 步，fast = 4，slow = 2，此时 nums[fast] = 3，不等于 val。
 
 此时nums[slow] = nums[fast] = 3，slow 和 fast 向后移动一位。
 
+<div align=center>
+
 ![10b0f075f12d8620ec842aa54f9d7be](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181733887_0.jpg)
+
+</div>
 
 第 6 步，fast = 5，slow = 3，nums[fast] = 0，不等于 val。
 
 此时nums[slow] = nums[fast] = 0，slow 和 fast 向后移动一位。
 
+<div align=center>
+
 ![64b4fa5d11d5d992b60c840e8c80217](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181755237_0.jpg)
+
+</div>
 
 第 7 步，fast = 6，slow = 4，nums[fast] = 4，不等于 val。
 
 此时nums[slow] = nums[fast] = 4，slow 和 fast 向后移动一位。
 
+<div align=center>
+
 ![358bcc605613b94bd6674c8681c4974](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181818439_0.jpg)
+
+</div>
 
 第 8 步，fast = 7，slow = 5，nums[fast] = 2，和 val 相等。
 

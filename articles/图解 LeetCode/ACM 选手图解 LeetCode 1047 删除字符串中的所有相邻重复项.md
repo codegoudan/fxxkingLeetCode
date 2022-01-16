@@ -80,7 +80,6 @@ stack = []
 所以第 1 步，当前元素为 a，栈为空，所以元素 a 入栈。
 
 <div align=center>
-
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170036175_0.jpg" alt="6ff8db8534a48f0da8247d21a384e8e"  />
 
 </div>

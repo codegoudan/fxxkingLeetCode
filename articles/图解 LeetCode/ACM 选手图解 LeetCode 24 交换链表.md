@@ -1,8 +1,10 @@
 **交换链表**，和反转链表一样，也是必考的“老熟人”。
 
+<div align=center>
+
 ![40d1f6698708b8161025dbcef5514d4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111149940_0.jpg)
 
-
+</div>
 
 # LeetCode 24：两两交换链表中的节点
 
@@ -52,7 +54,11 @@
 
 先建立一个带虚拟头节点的单链表。
 
+<div align=center>
+
 ![fda0fd241a014afc68089959308e254](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111532338_0.jpg)
+
+</div>
 
 PS：此处代码为 Python（”代码实现“小节处有 Java 代码，下同）。
 
@@ -70,7 +76,11 @@ dummyHead = ListNode(-1)
 
 其中 pre 指向虚拟头节点，p 指向链表首节点，q 指向链表的第 2 个节点。
 
+<div align=center>
+
 ![7ee9622db7124b90218b60be2a0f686](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111606636_0.jpg)
+
+</div>
 
 ```Python
 pre = dummyHead
@@ -82,19 +92,35 @@ q = p.next
 
 第 1 步：pre 的后继指针 next 指向 q，即 pre.next = q。
 
+<div align=center>
+
 ![362cfa820e6e73f6ce4046d588a5467](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111734210_0.jpg)
+
+</div>
 
 第 2 步：p 的后继指针 next 指向 q 的后继节点，即 p.next = q.next。
 
+<div align=center>
+
 ![f8e21ee36710cce18725057b29db743](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111744087_0.jpg)
+
+</div>
 
 第 3 步：那就剩了 q 的后继指针 next 指向 p，即 q.next = p。
 
+<div align=center>
+
 ![37ac5181295458e52536bfab55d4d3b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111753769_0.jpg)
+
+</div>
 
 所以第一次交换完，链表变成了：
 
+<div align=center>
+
 ![eff82dc7b4c4d3a1fcdad18746660f9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111809185_0.jpg)
+
+</div>
 
 ```Python
 pre.next = q
@@ -112,7 +138,11 @@ q = p.next
 
 继续重复上述 3 步操作。
 
+<div align=center>
+
 ![964b3ca54970a45e9d299d666669b23](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_111859410_0.jpg)
+
+</div>
 
 本方法遍历一遍链表，**时间复杂度为 O(n)，空间复杂度为 O(1)**。
 

@@ -2,9 +2,11 @@
 
 可以这么说，不管什么时候，只要考到链表，反转链表都属于必考项。
 
+<div align=center>
+
 ![aa19b71c1a5d353ca8150fca0f83844](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230657632_0.jpg)
 
-
+</div>
 
 # LeetCode 206：反转链表
 
@@ -58,17 +60,36 @@
 
 这个题是将当前 next 节点的指针指向它的前驱节点，这就需要得有两个指针：一个指向当前节点，一个指向前驱节点。
 
+<div align=center>
+
 ![4b57cf259ea41b64d51fd526b36fe45](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230913279_0.jpg)
+
+</div>
 
 如果只有这俩的话又不对，因为当 p 的 next 指针指向前驱节点 q 的时候，上图就会变成这样：
 
+<div align=center>
+
 ![71c2efe60254b05bef5ddf8bfa8f4c7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230929082_0.jpg)
+
+</div>
 
 所以此时应该还需要一个临时指针 temp，保存当前节点的后继节点，也就是如下图：
 
-![cefb2604f4befc2cd84e0f4e581ab82](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230959755_20.jpg)所以现在成了，先找到 temp，然后 p.next 再指向 q，最后 q，p 同时右移。
+<div align=center>
+
+![cefb2604f4befc2cd84e0f4e581ab82](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230959755_20.jpg)
+
+</div>
+
+所以现在成了，先找到 temp，然后 p.next 再指向 q，最后 q，p 同时右移。
+
+<div align=center>
 
 ![af9cd53ad766b021aa1c86ac92d0c81](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_231018835_0.jpg)
+
+</div>
+
 如此反复，直至全部结束。
 
 本方法遍历一遍链表，所以时间复杂度为 O(n)，需要了额外的 3 个指针，空间复杂度为 O(1)。

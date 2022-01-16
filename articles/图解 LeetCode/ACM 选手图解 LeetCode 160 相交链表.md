@@ -4,7 +4,11 @@
 
 具体的到下面细聊，现在先开始看题。
 
+<div align=center>
+
 ![ebfe8f04df82891c77f29b869f7f753](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_153627068_0.jpg)
+
+</div>
 
 
 
@@ -22,7 +26,11 @@
 
 ## 示例
 
+<div align=center>
+
 ![e1558939fd5da6eaf1dcc83a84aa50a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_153948470_0.jpg)
+
+</div>
 
 
 
@@ -50,7 +58,11 @@
 
 光这个出题的题意，我感觉就得值个难度 hard！
 
-![bf8421e47e72f8a3724ad76bdb37134](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154043261_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154043261_0.jpg" alt="bf8421e47e72f8a3724ad76bdb37134" style="zoom:67%;" />
+
+</div>
 
 其实搞清楚了题意，稍微一想解法就能出来。
 
@@ -58,7 +70,11 @@
 
 虽然用了双指针，但是它的解法楞是用上了数学的思想。怕你们在做的时候会先去看题解，然后又看不懂别人怎么个思想，所以这里就给臭宝们讲一下**“浪漫”的做法**。
 
+<div align=center>
+
 ![1266ec8549c864358f70b0c8ab7c9f1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154105493_0.jpg)
+
+</div>
 
 官方的方法是：
 
@@ -107,7 +123,11 @@ $$
 
 我也用到了双指针，不过我是从屁股开始的。
 
-![61ab1d3b13faf51fe8777586d7800d9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154227320_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154227320_0.jpg" alt="61ab1d3b13faf51fe8777586d7800d9" style="zoom:67%;" />
+
+</div>
 
 你想，**如果两个链表相交的话，那必定有一段公共段**。
 
@@ -129,7 +149,11 @@ $$
 
 首先初始化两个指针和链表长度。
 
+<div align=center>
+
 ![52446d6140120371ee1bcadcedf43f4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154308997_0.jpg)
+
+</div>
 
 ```Python
 # 初始化headA、headB的指针和长度
@@ -152,7 +176,11 @@ while flagB:
 
 在本例中，链表 A 比链表 B 长，差值为 2，所以链表 B 的指针 flagB 移动差值的距离。
 
+<div align=center>
+
 ![ce7457cfcbbd47078b220a688129e03](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154403495_0.jpg)
+
+</div>
 
 ```Python
 # 当A是长链表，则指针flagA后移到和B链表同等长度的位置上。
@@ -174,7 +202,11 @@ flagB = flagB.next
 
 本例中相遇节点为 2。
 
+<div align=center>
+
 ![41131b4fc18894807440a72c7f92b52](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154501500_0.jpg)
+
+</div>
 
 ```Python
  if flagA == flagB:
@@ -189,7 +221,11 @@ flagB = flagB.next
 
 我要骄傲了呀。
 
+<div align=center>
+
 ![5e3f024c0ae1c3ec40f3139411b0b69](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154530733_0.jpg)
+
+</div>
 
 
 

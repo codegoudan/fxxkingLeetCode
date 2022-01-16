@@ -2,7 +2,11 @@
 
 不同于【[**LeetCode27 移除元素**](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475922234&idx=1&sn=5f0a3fce40927c80ff5608da90b6fcd0&chksm=ff22f4b7c8557da10186decdfd4b1f57277b44e1f452388be2ef407bd5e91f8b2e24c624fceb&scene=21#wechat_redirect)】的快慢指针，这次的双指针是一种另外的用法。
 
+<div align=center>
+
 ![42712bdf8cc67cc5e548407d7f12823](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_182404018_0.jpg)
+
+</div>
 
 
 
@@ -51,7 +55,11 @@
 
 **我们要善于使用题意来选择最合适的办法。**
 
+<div align=center>
+
 ![50e6bffc50459852b4b0e2ffe8d556d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_182631733_0.jpg)
+
+</div>
 
 数组 nums 是非递减排序的数组，那就相当于是个递增的数组，且每个元素的取值 -10^4 <= nums[i] <= 10^4，这就证明元素值有正有负。
 
@@ -71,7 +79,11 @@
 
 首先初始化 left 和 right 指针，新建 res 数组，site 指针指向 res 数组的尾部。
 
+<div align=center>
+
 ![73ef186435c8f954ac1bc4c5f444bca](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_182723768_0.jpg)
+
+</div>
 
 ```Python
 # 初始化双指针
@@ -86,7 +98,11 @@ site = len(nums) - 1
 
 此时 nums[left] * nums[left] = 16 < nums[right] * nums[right] = 100，则 res[site] = nums[right] * nums[right] = 100，同时 right 向左移动一位，site 向左移动一位。
 
+<div align=center>
+
 ![458290bce4174de30b6eb1f64061460](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_182806296_0.jpg)
+
+</div>
 
 ```Python
 if nums[left] * nums[left] < nums[right] * nums[right]:
@@ -99,7 +115,11 @@ site -= 1
 
 此时 nums[left] * nums[left] = 16 > nums[right] * nums[right] = 9，则 res[site] = nums[left] * nums[left] = 16，同时 left 向右移动一位，site 向左移动一位。
 
+<div align=center>
+
 ![a98c84fba32dc9cdc19b5fe531df60c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_182843373_0.jpg)
+
+</div>
 
 ```Python
 if nums[left] * nums[left] >= nums[right] * nums[right]:
@@ -112,13 +132,21 @@ site -= 1
 
 此时 nums[left] * nums[left] = 1 < nums[right] * nums[right] = 9，则 res[site] = nums[right] * nums[right] = 9，同时 right 向左移动一位，site 向左移动一位。
 
+<div align=center>
+
 ![fa3a5089913f2f9f37bb02a1568b187](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_183036237_20.jpg)
+
+</div>
 
 第 4 步，left = 1，right = 2，site = 1：
 
 此时 nums[left] * nums[left] = 1 > nums[right] * nums[right] = 0，则 res[site] = nums[left] * nums[left] = 1，同时 left 向右移动一位，site 向左移动一位。
 
+<div align=center>
+
 ![32f3abca153dc0ec1d91d104d2d063b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_183045380_0.jpg)
+
+</div>
 
 **这里就要注意我在代码中特别强调的：**
 
@@ -133,7 +161,11 @@ while left <= right:
 
 循环就此结束，输出结果 res。
 
+<div align=center>
+
 ![b579e2bf0d2d2879e123c8f18ebff28](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_183128641_0.jpg)
+
+</div>
 
 本道题的解法，相当于遍历了一遍数组，**时间复杂度为 O(n)**。
 

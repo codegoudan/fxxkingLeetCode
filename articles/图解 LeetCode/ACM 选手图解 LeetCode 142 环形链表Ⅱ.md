@@ -4,7 +4,11 @@
 
 不慌，保证安排的明明白白。
 
+<div align=center>
+
 ![ed1145c7f7a0c643d1e79f5244b9dfc](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_152052118_0.jpg)
+
+</div>
 
 
 
@@ -90,7 +94,11 @@
 
 这一步要用到点儿数学，下面来看一张简图。
 
+<div align=center>
+
 ![079936517eaf938f8e37ee064b2eb75](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_152328850_0.jpg)
+
+</div>
 
 假设：
 
@@ -151,19 +159,35 @@ $$
 
 第 1 步：初始化快慢指针。每次 slow 走 1 步，fast 走 2 步。
 
+<div align=center>
+
 ![d3e51aa3bcf8f80b85ae56553b03706](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_152822735_0.jpg)
+
+</div>
 
 第 2 步：slow 移动 1 步，fast 移动 2 步。
 
+<div align=center>
+
 ![55df8be7e279e4e3122d71551582270](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_152848817_0.jpg)
+
+</div>
 
 第 3 步：同上。
 
+<div align=center>
+
 ![a1128d45beb74decb45fb785238d673](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_152915488_0.jpg)
+
+</div>
 
 第 4 步：同上。
 
-![18bb75ede86a787aa2b70ae3b300e0a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_152933105_0.jpg)
+<div align=center>
+
+![18bb75ede86a787aa2b70ae3b300e0a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220116_120751503_20.jpg)
+
+</div>
 
 此时 fast = slow，判断有环。
 
@@ -173,11 +197,19 @@ $$
 
 第 1 步：设置两个新节点，flag1 指向头节点，flag2 指向快慢指针相遇节点。
 
+<div align=center>
+
 ![55d790d8ba25a790c8c26b617ba9b6d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_153004839_0.jpg)
+
+</div>
 
 第 2 步：flag1 移动 1 步，flag2 移动 1 步。
 
+<div align=center>
+
 ![adaf4275b2f2af7cd7e26499b0c03b0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_153022673_0.jpg)
+
+</div>
 
 此时 flag1 和 flag2 相遇，找到入口索引为 1，返回索引为 1 的链表节点。
 

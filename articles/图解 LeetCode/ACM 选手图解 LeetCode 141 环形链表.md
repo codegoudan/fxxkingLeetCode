@@ -2,7 +2,11 @@
 
 判断环形链表在思维上稍微复杂一点儿，但是不慌，有我在。
 
+<div align=center>
+
 ![4ad921bd0dfdc16b7746dfb9531f888](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_112458912_0.jpg)
+
+</div>
 
 
 
@@ -85,7 +89,11 @@
 
 第 1 步：初始化快慢指针。每次 slow 走 1 步，fast 走 2 步。
 
+<div align=center>
+
 ![5b6362643f4341632a6b7955b342a61](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_112706876_0.jpg)
+
+</div>
 
 ```Python
  # 初始化快慢指针
@@ -94,7 +102,11 @@
 
 第 2 步：slow 移动 1 步，fast 移动 2 步。
 
+<div align=center>
+
 ![cf0cd4e6e506bfb5698099303263251](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_112801220_0.jpg)
+
+</div>
 
 ```Python
 while fast and fast.next:
@@ -105,11 +117,19 @@ while fast and fast.next:
 
 第 3 步：同上。
 
+<div align=center>
+
 ![7fab6a256c13f99a2009a11d21b9a33](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_112853832_0.jpg)
+
+</div>
 
 第 4 步：同上。
 
+<div align=center>
+
 ![f9bc577148fdcbcd8a8d3700246c0b4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_112911125_0.jpg)
+
+</div>
 
 此时 fast = slow，判断有环，返回 true，结束。
 

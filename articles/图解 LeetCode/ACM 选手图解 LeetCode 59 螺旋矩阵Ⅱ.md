@@ -2,7 +2,11 @@
 
 这道题没有算法上的难度，考察的是小婊贝们的代码能力和细心水平。
 
+<div align=center>
+
 ![5486ff5bdbafd6547fa02f75f5d2a8b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_190824517_0.jpg)
+
+</div>
 
 
 
@@ -26,7 +30,11 @@
 
 解释：
 
+<div align=center>
+
 ![5c0b88699ffc4a0f0c8ba9031e1ebf8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_190922221_0.jpg)
+
+</div>
 
 
 
@@ -47,7 +55,11 @@
 
 **做这类模拟题的要点就是多在纸上画一下**，别空想把自己想晕了，代码写干净些，方面后面 debug... 
 
+<div align=center>
+
 ![a53b285f8372669f03325e7c8202107](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191036733_0.jpg)
+
+</div>
 
 这道题是按“顺时针”顺序对矩阵进行填充，方向无非就是“上下左右”，顺时针的话，**填充就是按照“上->右->下->左”**，写具体点就是：
 
@@ -70,7 +82,11 @@
 
 首先初始化结果矩阵和上下左右边界。
 
+<div align=center>
+
 ![0780a2766b25720da23716c42927e53](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191109062_0.jpg)
+
+</div>
 
 ```Python
 # 初始化结果矩阵
@@ -87,7 +103,11 @@ left, right, up, down = 0, n-1, 0, n-1
 
 此时 up = 0，固定不变，从左至右在 [left, right] 间填充。
 
+<div align=center>
+
 ![6c16989609fb54279448a9cf8e43540](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191142938_0.jpg)
+
+</div>
 
 ```Python
 # 从左到右
@@ -98,7 +118,11 @@ for i in range(left, right + 1):
 
 此时最上行被填充完毕，上边界 top 发生了改变，需要向下移动。
 
+<div align=center>
+
 ![37e4c4cfeaafba0b02f1f30e9e398cf](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191227783_0.jpg)
+
+</div>
 
 ```Python
 up += 1
@@ -108,7 +132,11 @@ up += 1
 
 此时 right = n - 1 =3，固定不变，从上至下在 [up, down] 之间填充。
 
+<div align=center>
+
 ![5f46c90dc11ca9e8561c16d0a24f674](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191259763_0.jpg)
+
+</div>
 
 ```Python
 # 从上到下
@@ -119,7 +147,11 @@ for i in range(up, down + 1):
 
 此时最右列被填充完毕，右边界 right 发生了改变，需要向左移动。
 
+<div align=center>
+
 ![1c2a2be2bb6edd1b54472c87a74c8ae](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191333988_0.jpg)
+
+</div>
 
 ```Python
 right -= 1
@@ -129,7 +161,11 @@ right -= 1
 
 此时 down = n - 1 = 3 固定不变，从右至左在 [left, right] 之间填充。
 
+<div align=center>
+
 ![e62d458df8c4f654adb023129373b0f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191402722_0.jpg)
+
+</div>
 
 ```Python
 # 从右到左
@@ -140,7 +176,11 @@ for i in range(right, left-1, -1):
 
 此时最下行被填充完毕，下边界 down 发生了改变，需要向上移动。
 
+<div align=center>
+
 ![9fc4216a24a95a54d895c0b362cedd6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191444057_0.jpg)
+
+</div>
 
 ```Python
 down -= 1
@@ -150,7 +190,11 @@ down -= 1
 
 此时 left = 0 固定不变，从下至上在 [up, down] 之间填充。
 
+<div align=center>
+
 ![db9278acf2030a0496fee8cb6a5d683](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191515971_0.jpg)
+
+</div>
 
 ```Python
 # 从下到上
@@ -161,7 +205,11 @@ for i in range(down, up-1, -1):
 
 此时最左列被填充完毕，左边界 left 发生了改变，需要向右移动。
 
+<div align=center>
+
 ![d14ff8a236ffcb7f6640f9eba0beabf](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_191549973_0.jpg)
+
+</div>
 
 
 
