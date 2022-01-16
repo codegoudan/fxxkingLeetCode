@@ -2,9 +2,11 @@
 
 复杂度分析主要就是时间复杂度和空间复杂度，接下来的文章也主要围绕这两方面来讲。废话不多说，前排马扎瓜子准备好，蛋蛋小课堂正式接客。
 
+<div align=center>
+
 ![3c8b4b4b347be28e6e7ba920da4ac28](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_173630567_0.jpg)
 
-
+</div>
 
 # 复杂度分析
 
@@ -14,7 +16,11 @@
 
 这个就要从盘古开天辟地，呃，从数据结构与算法的本身说起。
 
+<div align=center>
+
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170536104_0.jpg" alt="841e629526bad79da1f261ef22f57e4" style="zoom:80%;" />
+
+</div>
 
 我平常白天做梦的时候，总是想着当当咸鱼划划水就能赚大钱，最好就是能躺着，钱就直接砸到我脑阔上。数据结构与算法虽然没有本蛋这么大的梦想，但是它的出现也是想着花更少的时间和更少的存储来解决问题。
 
@@ -36,7 +42,11 @@
 
 如果只是学会了数据结构与算法的用法，不学复杂度分析，这就和你费尽千辛万苦在隔壁老王家次卧进门右手第二块地砖下偷挖出老王打遍村里无敌手的村林至宝王霸拳，然后发现秘籍上只有招式，没有内功心法，好好得王霸拳变的还不如王八拳。只有学会了王霸之气，才能虎躯一震，王霸之气一噗，震走村口光棍李养的哈巴狗。
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170453363_0.jpg" alt="e243977cfd3ab4e0a24d432bad980f9" style="zoom: 67%;" />
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170453363_0.jpg" alt="e243977cfd3ab4e0a24d432bad980f9" style="zoom: 50%;" />
+
+</div>
 
 > **臭宝**：哇，厉害厉害厉害，你胖你说的都对，但还是没必要学啊。
 >
@@ -52,7 +62,11 @@
 
 简单来说，就是你需要**提前写好算法代码和编好测试数据，然后在计算机上跑，通过最后得出的运行时间判断算法时效的高低**，这里的运行时间就是我们日常的时间。
 
+<div align=center>
+
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170440101_0.jpg" alt="a3ad51bbbfe89094c390dcefca98bcf" style="zoom:67%;" />
+
+</div>
 
 我且不用“万一你费劲心思写好的算法代码本身是个很糟糕的解法”这种理由去反驳你，事后统计法本身存在很多缺陷，它并不是一个对我们来说有用的度量指标：
 
@@ -64,7 +78,11 @@
 
 说不出来了叭？
 
+<div align=center>
+
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170426974_0.jpg" alt="9671fb039a9fd6df3d2b09de638a558" style="zoom:67%;" />
+
+</div>
 
 可以看出，**我们需要一个不依赖于性能和规模等外力影响就可以估算算法效率、判断算法优劣的度量指标，而复杂度分析天生就是干这个的，这也是为什么我们要学习并必须学会复杂度分析！**
 
@@ -103,7 +121,11 @@ def dogeggs_sum (n):
 
 所有人准备，我们很熟悉的大 O 闪亮登场了！
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170412580_0.jpg" alt="d5ccaa88645597b99e86b2f4123a953" style="zoom:67%;" />
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170412580_0.jpg" alt="d5ccaa88645597b99e86b2f4123a953" style="zoom: 50%;" />
+
+</div>
 
 ## 大 O 表示法
 
@@ -113,7 +135,11 @@ def dogeggs_sum (n):
 
 那么之前的公式就变成 T(n) = O(f(n))，其中 f(n) 是算法代码执行的总步数，也叫操作数。
 
+<div align=center>
+
 ![a8e55e68c25472d332026054eab4376](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170402404_0.jpg)
+
+</div>
 
 n 作为数据集大小，它可以取 1，10，100，1000 或者更大更大更大的数，到这你就会发现一件很有意思的事儿，那就是当数据集越来越大时，你会发现代码中的某些部分“失效”了。
 
@@ -177,7 +203,11 @@ def dogeggs_sum (n):
 
 剩下的就是多加练习，有意识的多去想多去练，就可以和我一样 帅气 稳啦。
 
+<div align=center>
+
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170349565_0.jpg" alt="eb4c23941d5a7f506df7199b0792e8a" style="zoom:80%;" />
+
+</div>
 
 ## 常见时间复杂度
 
@@ -228,15 +258,27 @@ while dogegg < n:
 
 其实很简单，上面的代码翻译一下就是初始化 dogegg = 1， 乘上多少个 2 以后会 ≥ n。
 
+<div align=center>
+
 ![baa2ae991ecd8ee28c096a7158418e3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170337329_0.jpg)
+
+</div>
 
 假设需要 x 个，那么相当于求：
 
+<div align=center>
+
 ![c2a5b74ac6758928a953d695ef276ce](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170331248_0.jpg)
+
+</div>
 
 即：
 
+<div align=center>
+
 ![426768f16b2624f36b2426a7fc29837](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170323844_0.jpg)
+
+</div>
 
 所以上述代码的时间复杂度应该为 O(log2n)。
 
@@ -244,15 +286,27 @@ while dogegg < n:
 
 这就要从对数的**换底公式**说起。
 
+<div align=center>
+
 ![87196511cc38c4ce5a1b616cb79ab46](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170306601_0.jpg)
+
+</div>
 
 根据换底公式，log2n 可以写成：
 
+<div align=center>
+
 ![c1ad669cd091db985564c170bbae212](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170248508_0.jpg)
+
+</div>
 
 对于时间复杂度来说：
 
+<div align=center>
+
 ![9aeca2653fa3771e6d4145b07398cf7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170239320_0.jpg)
+
+</div>
 
 所以在对数时间复杂度中我们就忽略了底，直接用 O(logn) 来表示对数时间复杂度。
 
@@ -276,9 +330,11 @@ def stupid_cnt(n):
 
 当然像上面这种 stupid 代码一般人不会写，我也只是举个例子给大家看，我是狗蛋，大家千万不要以为我是傻狗。
 
+<div align=center>
+
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170226514_0.jpg" alt="981494700979d1faa8e8c390762683b" style="zoom:67%;" />
 
-
+</div>
 
 ## 最好情况、最坏情况和平均情况时间复杂度
 
@@ -336,7 +392,11 @@ def find_word(lst, word):
 
 每个出现的概率（即权重）知道了，所以平均时间复杂度为：
 
+<div align=center>
+
 ![c73b893dd0a027c31b659555c019789](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170210098_0.jpg)
+
+</div>
 
 是不是看着有点眼熟，这就是我们都学过的加权平均值。
 
@@ -344,7 +404,11 @@ def find_word(lst, word):
 
 所以最终的平均时间复杂度就为：
 
+<div align=center>
+
 ![a335eac2c3512962a06ab6325e4504b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170159474_0.jpg)
+
+</div>
 
 > **臭宝**：又是最好，又是最坏，又是平均的，这么多到底用哪个呀？
 >
@@ -380,7 +444,11 @@ def find_word(lst, word):
 
 空间复杂度记作 S(n)，表示形式与时间复杂度一致。
 
+<div align=center>
+
 ![3f49fdacf9fcf8560613e0350e1f43d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170148264_0.jpg)
+
+</div>
 
 在这同样 n 作为数据集大小，f(n) 指的是规模 n 所占存储空间的函数。
 
@@ -447,5 +515,9 @@ def create_lst(n):
 
 这是第一篇文章，写完真心不太容易，希望开了个好头。
 
+<div align=center>
+
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170134616_0.jpg" alt="6df0e1c0c99a1d202429b8776215f91" style="zoom:50%;" />
+
+</div>
 

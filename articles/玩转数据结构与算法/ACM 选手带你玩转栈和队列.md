@@ -2,7 +2,11 @@
 
 下面，让我们来看看，它们是有多简单。
 
+<div align=center>
+
 ![1422ac388ed60b8816751c77644b5a1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160241305_0.jpg)
+
+</div>
 
 
 
@@ -14,15 +18,21 @@
 
 别小看它，栈是一种很重要的编程概念，它在软件应用中很常见。我们每天都用到的浏览器就用到了，浏览器的“后退”按钮。
 
+<div align=center>
+
 ![1e1100da801ed94183bb04eb3d6ba64](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160302392_0.jpg)
+
+</div>
 
 比如臭宝上班的时候正在浏览器上看**＠编程文青李狗蛋**的技术文，此时弹出一个保持男性持久的框框，“不小心”点到了，正看的入迷的时候你的老大路过，此时拿出单身 N 年的手速点击后退，你老大一看你在看帅蛋的文章，赞赏你是积极上进的员工，奖励手纸一卷。
 
 看，“后退”是多么的有用～
 
+<div align=center>
+
 ![2444c73e8e27935107cf6ad3855361c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160323564_0.jpg)
 
-
+</div>
 
 ## 栈的定义
 
@@ -34,19 +44,31 @@
 
 表尾又叫**栈顶**（Top），允许插入和删除，那么另一端就叫做**栈底**（Bottom）,啥也不能干，只能干等着第一个进栈的过来躺着。
 
+<div align=center>
+
 ![d337ed87a47204b2dc18eb96d6d6754](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160357818_0.jpg)
+
+</div>
 
 栈的插入操作，叫做**入栈（push）**。存入栈的元素之间没有任何具体的关系，只有到来的时间的先后顺序。
 
 入栈操作涉及的单个数据的进入，所以时间复杂度为 O(1)，同时入栈过程中只需要单个的临时存储空间，所以空间复杂度为 O(1)。
 
+<div align=center>
+
 ![63934b0a5713077c30d28568bcf81d8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160417487_0.jpg)
+
+</div>
 
 栈的删除操作，叫做**出栈（pop）**。删完了，也就是栈底就是栈顶的时候，就叫**空栈**。
 
 同理，出栈操作涉及个别数据的出去且出栈过程只需要单个的临时存储空间，所以时间复杂度和空间复杂度都为 O(1)。
 
+<div align=center>
+
 ![85ec2b6749c740781ef5fa51dacd2f1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160438728_0.jpg)
+
+</div>
 
 存入栈的元素之间没有任何具体关系，只有到来的时间的先后顺序．在这里没有元素的位置、元素的前后顺序等概念。
 
@@ -64,7 +86,11 @@
 
 顺序栈使用数组实现，下标为 0 的一端作为栈底，使用 top 做为栈顶，它来指示当前栈顶元素的位置，默认 top = -1 时为空栈。
 
+<div align=center>
+
 ![7559b2a6477d4750fdc72f34b55a783](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160547769_20.jpg)
+
+</div>
 
 
 
@@ -74,7 +100,11 @@
 
 链栈用单链表实现，一般尾节点为栈底，使用头指针指向的节点作为栈顶，不需要头节点。top = NULL 为空栈。
 
+<div align=center>
+
 ![eb7e2fea91e795deaf92fe47b2a50fa](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160625471_0.jpg)
+
+</div>
 
 啥同时因为顺序和链式本身的存储特点，**顺序栈的元素个数是固定值，存在栈满的情况，而链式栈则不存在栈满的情况**，除非内存被塞的满满的。
 
@@ -98,7 +128,11 @@
 
 允许插入的一端叫做**队头**，允许删除的一端叫做**队尾**。队列的插入叫做**入队列**，队列的删除叫做**出队列**。
 
+<div align=center>
+
 ![c1f19df815a0ac5afab40999ea0a421](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160711631_0.jpg)
+
+</div>
 
 
 
@@ -116,11 +150,19 @@
 
 在此，头节点指向队头，用 head 指向头节点，tail 指向队尾。
 
+<div align=center>
+
 ![1a827591c839e262e6d8406defb6ad2](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160753727_0.jpg)
+
+</div>
 
 **当 head  和 tail 都指向头节点时，为空队列**。
 
+<div align=center>
+
 ![5360dfbb738e64d82c11e306489ad2a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160822917_0.jpg)
+
+</div>
 
 
 
@@ -130,17 +172,29 @@
 
 假设队列能存 5 个元素，**当 head = tail，队列为空队列**。
 
+<div align=center>
+
 ![7c25e05b5cd2662acb84c83ebdb6741](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160900266_0.jpg)
 
-从上图的空栈中，A B C 依次入队，
+</div>
+
+从上图的空栈中，A B C 依次入队。
+
+<div align=center>
 
 ![67465742374b20d5ec8cb401faec0f0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160917995_0.jpg)
+
+</div>
 
 执行三次入队操作，此时head = 0，tail = 3。可以看出，当入队列的时候，数据直接按序存储到数组中，时间复杂度为 O(1)。
 
 如果此时要执行两次出队操作。
 
+<div align=center>
+
 ![2e291f79f9d29eb522c19211919cc95](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160948617_0.jpg)
+
+</div>
 
 执行两次出队操作，相当于删除了 A B，此时 head = 2，tail = 3。从这可以看出，出栈的时间复杂度也是 O(1)。
 
@@ -148,17 +202,29 @@
 
 还真不是就这。此时我再入两次队列。
 
+<div align=center>
+
 ![44de044c4a05d411ed867551b101015](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161013949_0.jpg)
+
+</div>
 
 这个时候问题来了，我就大小为 5，数组最后一个元素已经被占了，此时再入栈的话，就数组越界了，但是我这个队列明明没满，我下标是 0 和 1 的位置还空着，这咋整？
 
-![a2413f3c920b7ad625a65b0b42c8b17](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161032584_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161032584_0.jpg" alt="a2413f3c920b7ad625a65b0b42c8b17" style="zoom:80%;" />
+
+</div>
 
 不慌，两种办法。
 
 第 1 种，**满了就向前跑**。
 
+<div align=center>
+
 ![6e4e88d834b61f051d24c90a85e00e0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161046721_0.jpg)
+
+</div>
 
 每次当 tail = n 的时候，所有的元素搬到 0 ~ （tail-head）的位置，这个时候入队的时间复杂度是 O(1) 或者 O(n)，出队的时间复杂度也是 O(1)。
 
@@ -176,7 +242,11 @@
 
 怎么让 tail = n 了以后再编程 tail = 0，那不就是首尾相连，**循环队列**就这么闪亮登场了。
 
-![66fb8b0e296b2c6baa7e313fa9b348b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161112325_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161112325_0.jpg" alt="66fb8b0e296b2c6baa7e313fa9b348b" style="zoom:67%;" />
+
+</div>
 
 
 
@@ -186,25 +256,45 @@
 
 如果是循环队列的话，那当队列满了 tail 不需要等于 n ，直接指向了下标为 0 的位置。
 
+<div align=center>
+
 ![8455458f6472203a1d150afaafd1556](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161137804_0.jpg)
+
+</div>
 
 如果此时要执行入队操作，那就会变成：
 
+<div align=center>
+
 ![a211037acdae0b88bd19d49e1363155](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161150734_0.jpg)
+
+</div>
 
 如果想更直观一些，我可以把它掰弯了给大家看。
 
+<div align=center>
+
 ![78bbf2e55349edb07c2f0ce72b16a2c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161202610_0.jpg)
+
+</div>
 
 你仔细看上面那张图，你会发现一个问题，如果再入队一个元素的话，队列满了，此时 tail = head。
 
+<div align=center>
+
 ![a2a231713b7ce9ef77527f341cfec2d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161227541_0.jpg)
+
+</div>
 
 那问题来了，队列空的时候 tail = head，现在队列满了，也是 tail = head，我傻了呀，我怎么知道现在的队列是啥状态呢？
 
 那只能有一者做出牺牲了，空队列啥也没有，显然和个废物没啥两样，所以只能满队列做牺牲，牺牲一个位置啥也不放，也就是 tail 和 head 相差为 1 的时候就队列满了。也就是下面这种。
 
+<div align=center>
+
 ![2d94cabb76509d0b120eeacb32af790](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161243985_0.jpg)
+
+</div>
 
 因为 tail 可能比 head 大（正常占用完）也可能比 head 小（做了循环），所以判断队列满的条件就成了 **(tail + 1) % n = head**。
 
@@ -214,5 +304,9 @@
 
 栈和队列到这就讲完啦，哎呀妈呀画了这么多图可累死我了，虽然丑丑的...
 
-![6362b8c3b282ac3a5d4a4794a017464](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161319197_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161319197_0.jpg" alt="6362b8c3b282ac3a5d4a4794a017464" style="zoom:80%;" />
+
+</div>
 

@@ -14,7 +14,11 @@
 
 。。。
 
+<div align=center>
+
 ![a9972c7cbbf3eb25b6d5b09d4d003f1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230154472_0.jpg)
+
+</div>
 
 
 
@@ -26,9 +30,11 @@
 
 但是万变不离其宗，解决数组方面问题的万能钥匙，其实就是深刻的认识数组本身的深浅。
 
+<div align=center>
+
 ![12835bb4f9765bdfd462143326bab6c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230223239_0.jpg)
 
-
+</div>
 
 # 什么是数组？
 
@@ -47,13 +53,21 @@
 
 线性数据结构，顾名思义，像线一样的数据结构，又硬又直的典型代表。
 
+<div align=center>
+
 ![43ee9571fdc694588f34e86ab6141ac](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230315310_0.jpg)
+
+</div>
 
 **线性数据结构是有限的，它是某类元素的集合并且记录着元素之间的一组顺序关系，除了首尾之外，其余元素之间有且只有一个前驱和后继**。
 
 除了数组以外，像单链表、栈、队列等也是典型的线性数据结构。
 
+<div align=center>
+
 ![14f791c8c07ac113597a1bbaa163265](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230335056_0.jpg)
+
+</div>
 
 
 
@@ -61,7 +75,11 @@
 
 以一个长度为 6 的 int 类型的数组为例，理解一下“连续内存存储相同数据类型”数组的样砸。
 
+<div align=center>
+
 ![0b9fef495772ac54145d8828ddb6a2f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230522137_0.jpg)
+
+</div>
 
 上图中的计算机给数组 a 分配了一块连续的内存空间 1000 - 1005，首地址 address[0] = 1000。
 
@@ -85,7 +103,11 @@ address[i] = address[0] + i
 
 在这你要明白，持久意味着花的时间多（低效）。这么看来，在数据结构与算法中，秒男成了褒义词。
 
+<div align=center>
+
 ![4b79d83d9c51ae314aae16f6a093a06](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230626637_0.jpg)
+
+</div>
 
 这种插入和删除的“持久”，是如何产生的呢？
 
@@ -95,7 +117,11 @@ address[i] = address[0] + i
 
 比如我们在下标为 2 的位置上插入一个元素 29：
 
+<div align=center>
+
 ![49dc6ce0730697129be31350bf5efce](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230703471_0.jpg)
+
+</div>
 
 
 为了保持连续内存存储，在下标为 2 的位置上插入 29，原先 2 - 5 下标位置上元素都要向后一步走，可以看出这一步操作的时间复杂度为 O(n)。
@@ -104,11 +130,19 @@ address[i] = address[0] + i
 
 一般我都是按照**最坏情况时间复杂度**来算。对于插入来说，最好的情况肯定是插在末尾，这样所有的元素都不用动，时间复杂度为 O(1)，那最坏的情况就是在数组的开头插入，这样所有的元素都要动，时间复杂度就成了 O(n)，请大家一定要注意。
 
+<div align=center>
+
 ![313be028a1ea84077bc8a9badb20a0f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230740642_0.jpg)
+
+</div>
 
 对删除来说，和插入操作也差不多，比如我们删除下标为 2 位置上的元素。
 
+<div align=center>
+
 ![a117ef9b6819d4ec22beb16f8b4cd50](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230756121_0.jpg)
+
+</div>
 
 删除了下标 2 位置上的数字 a[2]， 原来下标 3 - 5 位置上的元素统统向前一步走。
 
@@ -129,7 +163,11 @@ print(lst[4])
 
 臭宝们平时写数组的时候一定要注意，不然一不小心就 out 了。
 
+<div align=center>
+
 ![846fe0e20a5f1980cf0194f02686fec](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230851801_0.jpg)
+
+</div>
 
 
 

@@ -10,11 +10,19 @@
 
 链表就这么被整出来了。
 
-![d1006cbf953b1c369fc77752279c788](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222602167_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222602167_0.jpg" alt="d1006cbf953b1c369fc77752279c788" style="zoom:67%;" />
+
+</div>
 
 相比于数组，链表是稍微复杂一些的数据结构，但是不难，只要跟着本蛋就能学会。
 
+<div align=center>
+
 ![4aae5e0315aaaa5b5cfb92c96ea43ad](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222635788_0.jpg)
+
+</div>
 
 
 
@@ -28,11 +36,19 @@
 
 链式存储结构是指**用一组任意的存储单元存储线性表的数据元素，通过指针连接串联起来。**
 
+<div align=center>
+
 ![79ae9c1e2053f70296f2e8afad16ad7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222718080_0.jpg)
+
+</div>
 
 这里的“任意”指的就是，**存储单元可以连续也可以不连续，**这就意味着**它们可以是内存中任何未被占用的地方。**有味儿点讲就是只要内存这个厕所里空着的茅坑，你就随便蹲。
 
-![1c030d9ef23a82ddaa45a4e2eac5bc4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222735983_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222735983_0.jpg" alt="1c030d9ef23a82ddaa45a4e2eac5bc4" style="zoom:50%;" />
+
+</div>
 
 链表中的存储单元叫做**节点**。它和数组中只存数据信息不同，每个节点分为两部分：**数据域和指针域**。数据域存储的数据，指针域存储着同一个表里下一个节点的位置。
 
@@ -48,17 +64,33 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 单链表的指针域指向的是下一个节点的地址，我们把指向下个节点地址的指针叫做**后继指针**。
 
+<div align=center>
+
 ![efd3fd26ffecf1491a572b14055e9c7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222832761_0.jpg)
+
+</div>
 
 单链表的第一个节点的存储位置叫做**头指针**，**最后一个节点的后继指针为空**，一般用 NULL 或者 “^” 表示。
 
+<div align=center>
+
 ![c7cc0dd9b7dab39691476eed415a3b6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222852494_0.jpg)
+
+</div>
 
 除了上面的，有时候为了操作方便，会在单链表的第一个节点前面加一个节点，称之为**头节点**。这个头节点一般不存储任何内容，它的指针域指向单链表的第一个节点。
 
+<div align=center>
+
 ![ecd0ea563a2783c9523b2dcae0e6690](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222920392_0.jpg)
 
+</div>
+
+<div align=center>
+
 ![17c5f067952de512c116006e90d60dc](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222936720_0.jpg)
+
+</div>
 
 > **臭宝**：停停停！又是头指针又是头节点的，有点懵。。。
 >
@@ -80,7 +112,11 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 除此以外，还有一种啥也没有，空空空空～**空链表**。
 
+<div align=center>
+
 ![c95f4f8daede5e1436e4f151d67c9a9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223103179_0.jpg)
+
+</div>
 
 不知道臭宝们发现了没，不管是带头节点，还是不带头节点，或者是空的链表，它们都是有头指针的，这正印证了我在上面提到过的“**头指针是链表的必备元素，无论链表是否为空，头指针都不能为空**”。
 
@@ -100,7 +136,11 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 正确的做法是，只需要将节点 s 插入到节点 p 和节点 p.next 之间就可以，说起来很简单，具体操作请看下图。
 
+<div align=center>
+
 ![a8b69107b59d24e0041c699d60d4631](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223200224_0.jpg)
+
+</div>
 
 从上图中可以看出，单链表的插入其实根本不需要惊动其它的节点，只需要让 s.next 的指针和 p.next 的指针稍作改变。**让节点 s 的后继指针指向 p 的后继节点，然后 p 的后继指针指向节点 s，这里切记，插入操作的顺序一定不能改变。**
 
@@ -114,7 +154,11 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 其实也简单，就是将 p 的后继指针绕过 q，直接指向 q 的后继节点即可，具体操作如下图。
 
+<div align=center>
+
 ![301c1d60b74bc309ffbb15a4be05039](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223243339_0.jpg)
+
+</div>
 
 由上图看出，同样只需要一步就可以实现删除操作，直接让 p.next 指向 q.next 即可，所以删除操作的时间复杂度为 O(1)。
 
@@ -142,7 +186,11 @@ easy！
 
 (2) 第 2 种骚操。在你应用的场景种，不知道有多少个元素，那这个时候你用单链表，每来一个新的元素你就链在表里，这种情况是用链表处理的绝佳方式。也是很容易被大家忽略的。
 
-![abb885099d7b58620367165db16968f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223356850_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223356850_0.jpg" alt="abb885099d7b58620367165db16968f" style="zoom:33%;" />
+
+</div>
 
 
 
@@ -150,9 +198,17 @@ easy！
 
 **双向链表**，顾名思义，两个方向向的链表。**相比起单链表来说，它多了一个前驱指针 prev，指向前驱节点。**这样双向链表既可以往前走，也可以往后走。
 
+<div align=center>
+
 ![020b62f932d358eacd3ee5f651eb25e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223428572_0.jpg)
 
+</div>
+
+<div align=center>
+
 ![2cb9fc27a26f481efb3e8328c9dd49a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223439515_0.jpg)
+
+</div>
 
 从上面两张图看，双向链表多了一个前驱指针，使得在内存上比单链表占用更多的空间，但是**双向链表在查询链表元素的时候会更加方便**，比如可以在 O(1) 的时间内超找到当前节点的前驱节点，这是典型的用空间换时间。
 
@@ -179,11 +235,19 @@ easy！
 
 第一步找到 data 域等于某个特定值的节点，无论单链表还是双向链表都需要从头开始一个一个的遍历，这一步的时间复杂度都是 O(n)。
 
+<div align=center>
+
 ![e92d0aa77426771927dfd8ca7ddc5bb](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223547129_0.jpg)
+
+</div>
 
 第二步就是插入操作。如果都是向后插入的话，那时间复杂度都是 O(1)，如果是向前插入的话，那单链表慢一些，它需要再重新找到特定值节点的前驱节点，这个时间又花费 O(n)，而双向链表不用，因为它有前驱节点，直接就能找到特定值节点的前驱节点，这个时间花费的是 O(1) 。
 
+<div align=center>
+
 ![bf059ba243b152623abc253d880de9a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223604561_0.jpg)
+
+</div>
 
 针对第 2 种情况，其实他就是第 1 种情况中的第二步，已经找到了要插入的节点，如果都是向后插入的话，单链表和双链表的时间复杂度都一样，都是 O(1)。差别就差向前插入，向前插入的话就需要知道当前节点的前驱节点，单链表需要重新遍历到当前节点的前驱节点，总的时间复杂度是 O(n)，而双向链表一下子就能找到它的前驱节点，时间复杂度是 O(1)。
 
@@ -202,7 +266,11 @@ easy！
 
 第 2 种情况，删除给定的节点，这就要求需要知道这个节点的前驱节点。单链表需要从头开始找，直到“node.next = 当前节点”的适合，才是找到了当前节点的前驱节点 node，这个过程的时间复杂度是 O(n)。而双向链表直接就知道它的前驱节点，只需要时间复杂度是 O(1) 就可以搞定。
 
-![2dbfc587a67a2494ca12c917edfa784](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_224011425_0.jpg)
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_224011425_0.jpg" alt="2dbfc587a67a2494ca12c917edfa784" style="zoom: 50%;" />
+
+</div>
 
 
 
