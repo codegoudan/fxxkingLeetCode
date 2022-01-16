@@ -1,6 +1,10 @@
 **反转字符串Ⅱ**，是在上篇简单到扣脚的反转字符串的基础上，加了一丢丢的限制条件。
 
+<div align=center>
+
 ![fa7d4c6a0351a337d3225945b2448ac](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_224351920_0.jpg)
+
+</div>
 
 
 
