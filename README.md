@@ -146,3 +146,14 @@
 
 - [ACM 选手带你玩转哈希表](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E7%8E%A9%E8%BD%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/ACM%20%E9%80%89%E6%89%8B%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%93%88%E5%B8%8C%E8%A1%A8.md)
 
+
+
+### 实战
+
+1. [ACM 选手图解 LeetCode 有效的字母异位词](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20242%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.md)
+2. [ACM 选手图解 LeetCode 赎金信](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20383%20%E8%B5%8E%E9%87%91%E4%BF%A1.md)
+3. [ACM 选手图解 LeetCode 快乐数](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20202%20%E5%BF%AB%E4%B9%90%E6%95%B0.md)
+4. [ACM 选手图解 LeetCode 两个数组的交集](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20349%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.md)
+5. [ACM 选手图解 LeetCode 两数之和](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%201%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+6. [ACM 选手图解 LeetCode 三数之和](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%2015%20%E4%B8%89%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+7. [ACM 选手图解 LeetCode 四数相加Ⅱ](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20454%20%E5%9B%9B%E6%95%B0%E7%9B%B8%E5%8A%A0%E2%85%A1.md)
