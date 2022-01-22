@@ -122,7 +122,7 @@
 
 
 
-### 精讲
+### 字符串入门精讲
 
 - [ACM 选手带你玩转字符串](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E7%8E%A9%E8%BD%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/ACM%20%E9%80%89%E6%89%8B%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
@@ -135,6 +135,19 @@
 3. [ACM 选手图解 LeetCode 替换空格](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20%E5%89%91%E6%8C%87%20Offer%2005%20%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.md)
 4. [ACM 选手图解 LeetCode 翻转字符串里的单词](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20151%20%E7%BF%BB%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E9%87%8C%E7%9A%84%E5%8D%95%E8%AF%8D.md)
 5. [ACM 选手图解 LeetCode 左旋转字符串](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20%E5%89%91%E6%8C%87%20Offer%2058-%E2%85%A1%20%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+
+
+
+### KMP 算法精讲
+
+- [ACM 选手带你玩转 KMP 算法](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E7%8E%A9%E8%BD%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/ACM%20%E9%80%89%E6%89%8B%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%20KMP%20%E7%AE%97%E6%B3%95.md)
+
+
+
+### 实战
+
+1. [ACM 选手图解 LeetCode 实现 strStr()]
+2. [ACM 选手图解 LeetCode 重复的子字符串]
 
 
 
