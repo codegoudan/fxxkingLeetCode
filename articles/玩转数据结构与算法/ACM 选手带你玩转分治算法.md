@@ -1,0 +1,204 @@
+大家好呀，我是帅蛋。
+
+在之前我讲了递归算法：
+
+
+
+**[ACM 选手带你玩转递归算法！](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475925238&idx=1&sn=ea7eafee3e61b433642312f33a5a2413&chksm=ff22f97bc855706d385c42fbb5132da5c7a2a53a2ca59e6a475f7ccfb3c2dc69195f6716e58a&scene=21#wechat_redirect)**
+
+
+
+递归是一种很重要的算法，经常在一些高级的算法中应用，比如今天我要讲的分治算法。
+
+分治算法同样也是一种很重要的算法，可能很多小婊贝们都听说过分治算法，但是没有系统的了解过。
+
+这篇文章，就让我们来一探究竟。
+
+<div align=center>
+
+![1b01f6a561cd45c9910e1b91f9ee1dd](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_211831940_0.jpg)
+
+</div>
+
+
+
+# 什么是分治？
+
+学习分治，得先知道什么是分治。
+
+分治，表面意思就是“**分而治之**”，洋名儿叫 **Divde & Conquer**。
+
+正规点的说法是：
+
+**分治算法就是将一个大的复杂的问题，拆分成多个相同或者相似的子问题，然后再把子问题拆成更小的子问题，然后再拆成更更小的问题 and so on**
+
+**直至最后的子问题可以简单求解，那最后问题的解即子问题解的合并。**
+
+白话点说就是：
+
+**将一个难题，拆成一些规模较小的相同的子问题，各个击破，分而治之。**
+
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_211934798_0.jpg" alt="9e526cd90db18331b291439c58482cd" style="zoom:50%;" />
+
+</div>
+
+很多算法用到了分治的思想，比如排序算法中的快排和归并排序，这些等我讲到排序算法的时候再来细聊。
+
+由此可以看出，**分治算法真真正正是一种处理问题的思想**，这个要区别于递归，**递归只是一种编程技巧**。
+
+
+
+# 分治算法的过程
+
+**分治算法由“分”和“治”两部分组成**，但是它主要包括 **3 个过程**：
+
+- 划分（Divide）
+- 求解（Conquer）
+- 合并（Combine）
+
+其中：
+
+**划分（Divide）**：将原问题划分为规模较小的子问题，子问题相互独立，与原问题形式相同。
+
+**求解（Conquer）**：递归的求解划分之后的子问题。
+
+**合并（Combine）**：这一步非必须。有些问题涉及合并子问题的解，将子问题的解合并成原问题的解。有的问题则不需要，只是求出子问题的解即可。
+
+分治算法的整个流程可以看下图：
+
+<div align=center>
+
+![5f0871d006b5bc74dd1b5cf8414e8ee](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212024549_0.jpg)
+
+</div>
+
+
+
+# 分治算法适用情况
+
+由分治算法的过程可以看出分治算法适用的情况，我的总结是 4 个词：
+
+- 规模大
+- 可分解
+- 各独立
+- 可合并
+
+**“规模大”和“可分解”针对原始问题。**
+
+即原问题要规模比较大，不易直接解决，但是问题分解成规模较小的相同子问题比较容易解决。
+
+**“各独立”和“可合并”针对子问题。**
+
+即子问题之间求解是相关独立互不影响，且子问题的解可以合并成原始问题的解。
+
+这四个词中最重要的是“各独立”和“可合并”。
+
+- **“各独立”涉及到分治法的效率问题。**
+
+如果各个子问题是不独立的，则分治法就需要重复的去解决一些重复的子问题，这样多做了很多不必要的工作。
+
+比如我们很熟悉的斐波那契数列，公式如下：
+
+<div align=center>
+
+![97121ba2bcc6f6f53c96ee48d974b84](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212140423_0.jpg)
+
+</div>
+
+假设我们要求 f(5)，分治法将其划分为一个个的子问题：
+
+<div align=center>
+
+![de4e48c48f1f6e69f9ffdea519790c6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212158219_0.jpg)
+
+</div>
+
+由上图可见，仅仅是求 f(5)，仅仅是只画了 3 层，就已经出现了相同结果的重复计算（比如 f(3) 和 f(2)）。
+
+通过对子问题解的合并，最终的结果毋庸置疑，但是因为各个子问题的不独立，造成了子问题的重复计算，从而分治法求解斐波那契的效率感人...
+
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212303192_0.jpg" alt="a1fb8f65f3c3362ed78edbbbcaebe61" style="zoom:50%;" />
+
+</div>
+
+碰到这种情况，还是动态规划比较合适...
+
+- **“可合并”是涉及能否用分治的关键。**
+
+如果子问题的解可合并，那就能用分治法。
+
+如果不可合并，单单只是“规模大”和“可分解”，分治就没必要考虑，用贪心或者动态规划才是正理。
+
+
+
+# 设计分治算法
+
+通过之前的了解，其实可以很清楚的发现，**用分治算法解决问题的核心，其实就是归纳一个求解的数学公式，然后根据公式设计递归程序**。
+
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212344325_0.jpg" alt="5cadb8a4c10755574aebb29ab4f7f73" style="zoom:50%;" />
+
+</div>
+
+说白了就是**先找找拆分到最小规模问题时怎么解，然后再瞅瞅随着问题规模增大点问题怎么解，最后就是找到递归函数，码出递归代码即可**。
+
+<div align=center>
+
+<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212405402_0.jpg" alt="add64ccf17319997155fb0b2bdf2512" style="zoom: 67%;" />
+
+</div>
+
+
+
+# 分治算法实例
+
+其实在这之前，我已经讲过一个典型的分治算法的应用：二分查找。
+
+可以说二分查找是分治算法中最常用的算法：
+
+
+
+[ACM 选手带你玩转二分查找！](http://mp.weixin.qq.com/s?__biz=MzI0NjAxMDU5NA==&mid=2475922852&idx=1&sn=f6990bcafef36c96599866ab99bb25f2&chksm=ff22f229c8557b3fab35b99c29038eb4ea0c024010128eb09e8923922666e16e3928b1ed4edf&scene=21#wechat_redirect)
+
+
+
+二分查找是在一个有序的数组中进行查找吗，每次可以让问题的规模减半。
+
+它思路比较简单：
+
+- 选择一个 mid 将数组分为左右两个集合。
+- 判断标志 arr[mid] 是否能与要查找的目标值 target 相等，相等则直接返回。 
+- 若小于 arr[mid]，则在左半区间继续查找。
+- 如大于 arr[mid]，则在右半区继续查找。
+- 递归上面的步骤。
+
+```Python
+def BinarySearch(arr, low, high, target):
+
+    if low <= high:
+        mid = (low + high) / 2
+        if arr[mid] == target:
+            return mid
+        elif arr[mid] < target:
+            return BinarySearch(arr, low, mid - 1, target)
+        else:
+            return BinarySearch(arr, mid + 1, high, target)
+    else:
+        # 没有找到
+        return -1
+```
+
+
+
+---
+
+**分治算法**到这就讲完辣，原理很简单，小婊贝们看会了么？
+
+原理搞懂只是迈出学会分治算法的第一步，**想要灵活的使用却不是一件容易的事儿**，更多的还是要在实战中领悟，在实战中加深对分治算法的理解。
+
+大家只要认真去搞，就一定能掌握分治算法。
