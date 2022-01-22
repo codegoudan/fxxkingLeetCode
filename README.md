@@ -216,5 +216,5 @@
 
 ### 实战
 
-1. [ACM 选手图解 LeetCode Pow(x,n)]
-2. [ACM 选手图解 LeetCode 多数元素]
+1. [ACM 选手图解 LeetCode Pow(x,n)](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%2050%20Pow(x%2Cn).md)
+2. [ACM 选手图解 LeetCode 多数元素](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20169%20%E5%A4%9A%E6%95%B0%E5%85%83%E7%B4%A0.md)
