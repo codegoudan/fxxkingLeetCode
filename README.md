@@ -146,8 +146,8 @@
 
 ### 实战
 
-1. [ACM 选手图解 LeetCode 实现 strStr()]
-2. [ACM 选手图解 LeetCode 重复的子字符串]
+1. [ACM 选手图解 LeetCode 实现 strStr()](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%2028%20%E5%AE%9E%E7%8E%B0%20strStr().md)
+2. [ACM 选手图解 LeetCode 重复的子字符串](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20459%20%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
 
 
 
