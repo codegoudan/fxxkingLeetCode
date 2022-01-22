@@ -191,3 +191,30 @@
 4. [ACM 选手图解 LeetCode 搜索旋转排序数组](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%2033%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.md)
 5. [ACM 选手图解 LeetCode 搜索旋转排序数组Ⅱ](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%2081%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E2%85%A1.md)
 6. [ACM 选手图解 LeetCode 寻找旋转排序数组中的最小值](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E5%9B%BE%E8%A7%A3%20LeetCode/ACM%20%E9%80%89%E6%89%8B%E5%9B%BE%E8%A7%A3%20LeetCode%20153%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.md)
+
+
+
+## 递归算法
+
+
+
+### 精讲
+
+- [ACM 选手带你玩转递归算法](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E7%8E%A9%E8%BD%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/ACM%20%E9%80%89%E6%89%8B%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95.md)
+
+
+
+## 分治算法
+
+
+
+### 精讲
+
+- [ACM 选手带你玩转分治算法](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E7%8E%A9%E8%BD%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/ACM%20%E9%80%89%E6%89%8B%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E5%88%86%E6%B2%BB%E7%AE%97%E6%B3%95.md)
+
+
+
+### 实战
+
+1. [ACM 选手图解 LeetCode Pow(x,n)]
+2. [ACM 选手图解 LeetCode 多数元素]
