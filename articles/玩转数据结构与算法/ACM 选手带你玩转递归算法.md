@@ -3,7 +3,6 @@
 今天来讲一种很重要的算法，全称叫“递上我心爱的小乌龟”，简称“**递龟(归)**”。
 
 <div align=center>
-
 <img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_210630413_0.jpg" alt="d59c99d82eacbc02dc0f79d0258af88" style="zoom:67%;" />
 
 </div>
