@@ -4,7 +4,7 @@
 
 <div align=center>
 
-![1422ac388ed60b8816751c77644b5a1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160241305_0.jpg)
+![zhdlrm1-0](https://cdn.codegoudan.com/img/zhdlrm1-0.png)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align=center>
 
-![1e1100da801ed94183bb04eb3d6ba64](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160302392_0.jpg)
+![zhdlrm1-1](https://cdn.codegoudan.com/img/zhdlrm1-1.png)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align=center>
 
-![2444c73e8e27935107cf6ad3855361c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160323564_0.jpg)
+![zhdlrm1-2](https://cdn.codegoudan.com/img/zhdlrm1-2.jpg)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align=center>
 
-![d337ed87a47204b2dc18eb96d6d6754](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160357818_0.jpg)
+![zhdlrm1-3](https://cdn.codegoudan.com/img/zhdlrm1-3.png)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align=center>
 
-![63934b0a5713077c30d28568bcf81d8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160417487_0.jpg)
+![zhdlrm1-4](https://cdn.codegoudan.com/img/zhdlrm1-4.png)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align=center>
 
-![85ec2b6749c740781ef5fa51dacd2f1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160438728_0.jpg)
+![zhdlrm1-5](https://cdn.codegoudan.com/img/zhdlrm1-5.png)
 
 </div>
 
@@ -88,7 +88,7 @@
 
 <div align=center>
 
-![7559b2a6477d4750fdc72f34b55a783](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160547769_20.jpg)
+![zhdlrm1-6](https://cdn.codegoudan.com/img/zhdlrm1-6.png)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align=center>
 
-![eb7e2fea91e795deaf92fe47b2a50fa](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160625471_0.jpg)
+![zhdlrm1-7](https://cdn.codegoudan.com/img/zhdlrm1-7.png)
 
 </div>
 
@@ -117,6 +117,8 @@
 啥叫先进先出呢？这就和排队上厕所，谁先到谁先嘘嘘，到的晚的只能忍住。
 
 同比栈，队列在软件应用中也很常见，就像现在我在一个字母一个字母的敲，最后输出在屏幕上你看到的一个个的字，这些就是最常见的队列的应用。
+
+![zhdlrm1-8](https://cdn.codegoudan.com/img/zhdlrm1-8.png)
 
 
 
@@ -152,7 +154,7 @@
 
 <div align=center>
 
-![1a827591c839e262e6d8406defb6ad2](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160753727_0.jpg)
+![zhdlrm1-9](https://cdn.codegoudan.com/img/zhdlrm1-9.png)
 
 </div>
 
@@ -160,7 +162,7 @@
 
 <div align=center>
 
-![5360dfbb738e64d82c11e306489ad2a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160822917_0.jpg)
+![zhdlrm1-10](https://cdn.codegoudan.com/img/zhdlrm1-10.png)
 
 </div>
 
@@ -174,7 +176,7 @@
 
 <div align=center>
 
-![7c25e05b5cd2662acb84c83ebdb6741](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160900266_0.jpg)
+![zhdlrm1-11](https://cdn.codegoudan.com/img/zhdlrm1-11.png)
 
 </div>
 
@@ -182,7 +184,7 @@
 
 <div align=center>
 
-![67465742374b20d5ec8cb401faec0f0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160917995_0.jpg)
+![zhdlrm1-12](https://cdn.codegoudan.com/img/zhdlrm1-12.png)
 
 </div>
 
@@ -192,7 +194,7 @@
 
 <div align=center>
 
-![2e291f79f9d29eb522c19211919cc95](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_160948617_0.jpg)
+![zhdlrm1-13](https://cdn.codegoudan.com/img/zhdlrm1-13.png)
 
 </div>
 
@@ -204,7 +206,7 @@
 
 <div align=center>
 
-![44de044c4a05d411ed867551b101015](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161013949_0.jpg)
+![zhdlrm1-14](https://cdn.codegoudan.com/img/zhdlrm1-14.png)
 
 </div>
 
@@ -212,7 +214,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161032584_0.jpg" alt="a2413f3c920b7ad625a65b0b42c8b17" style="zoom:80%;" />
+![zhdlrm1-15](https://cdn.codegoudan.com/img/zhdlrm1-15.jpg)
 
 </div>
 
@@ -222,7 +224,7 @@
 
 <div align=center>
 
-![6e4e88d834b61f051d24c90a85e00e0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161046721_0.jpg)
+![zhdlrm1-16](https://cdn.codegoudan.com/img/zhdlrm1-16.png)
 
 </div>
 
@@ -243,8 +245,9 @@
 怎么让 tail = n 了以后再编程 tail = 0，那不就是首尾相连，**循环队列**就这么闪亮登场了。
 
 <div align=center>
+![zhdlrm1-17](https://cdn.codegoudan.com/img/zhdlrm1-17.jpg)
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161112325_0.jpg" alt="66fb8b0e296b2c6baa7e313fa9b348b" style="zoom:67%;" />
+
 
 </div>
 
@@ -258,7 +261,7 @@
 
 <div align=center>
 
-![8455458f6472203a1d150afaafd1556](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161137804_0.jpg)
+![zhdlrm1-18](https://cdn.codegoudan.com/img/zhdlrm1-18.png)
 
 </div>
 
@@ -266,7 +269,7 @@
 
 <div align=center>
 
-![a211037acdae0b88bd19d49e1363155](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161150734_0.jpg)
+![zhdlrm1-19](https://cdn.codegoudan.com/img/zhdlrm1-19.png)
 
 </div>
 
@@ -274,7 +277,7 @@
 
 <div align=center>
 
-![78bbf2e55349edb07c2f0ce72b16a2c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161202610_0.jpg)
+![zhdlrm1-20](https://cdn.codegoudan.com/img/zhdlrm1-20.png)
 
 </div>
 
@@ -282,7 +285,7 @@
 
 <div align=center>
 
-![a2a231713b7ce9ef77527f341cfec2d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161227541_0.jpg)
+![zhdlrm1-21](https://cdn.codegoudan.com/img/zhdlrm1-21.png)
 
 </div>
 
@@ -292,7 +295,7 @@
 
 <div align=center>
 
-![2d94cabb76509d0b120eeacb32af790](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161243985_0.jpg)
+![zhdlrm1-22](https://cdn.codegoudan.com/img/zhdlrm1-22.png)
 
 </div>
 
@@ -306,7 +309,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_161319197_0.jpg" alt="6362b8c3b282ac3a5d4a4794a017464" style="zoom:80%;" />
+![zhdlrm1-23](https://cdn.codegoudan.com/img/zhdlrm1-23.jpg)
 
 </div>
 

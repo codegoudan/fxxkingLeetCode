@@ -12,7 +12,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222602167_0.jpg" alt="d1006cbf953b1c369fc77752279c788" style="zoom:67%;" />
+![lbrm2-0](https://cdn.codegoudan.com/img/lbrm2-0.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align=center>
 
-![4aae5e0315aaaa5b5cfb92c96ea43ad](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222635788_0.jpg)
+![lbrm2-1](https://cdn.codegoudan.com/img/lbrm2-1.png)
 
 </div>
 
@@ -38,7 +38,7 @@
 
 <div align=center>
 
-![79ae9c1e2053f70296f2e8afad16ad7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222718080_0.jpg)
+![lbrm2-2](https://cdn.codegoudan.com/img/lbrm2-2.png)
 
 </div>
 
@@ -46,7 +46,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222735983_0.jpg" alt="1c030d9ef23a82ddaa45a4e2eac5bc4" style="zoom:50%;" />
+![lbrm2-3](https://cdn.codegoudan.com/img/lbrm2-3.jpg)
 
 </div>
 
@@ -66,7 +66,7 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 <div align=center>
 
-![efd3fd26ffecf1491a572b14055e9c7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222832761_0.jpg)
+![lbrm2-4](https://cdn.codegoudan.com/img/lbrm2-4.png)
 
 </div>
 
@@ -74,7 +74,7 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 <div align=center>
 
-![c7cc0dd9b7dab39691476eed415a3b6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222852494_0.jpg)
+![lbrm2-5](https://cdn.codegoudan.com/img/lbrm2-5.png)
 
 </div>
 
@@ -82,13 +82,13 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 <div align=center>
 
-![ecd0ea563a2783c9523b2dcae0e6690](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222920392_0.jpg)
+![lbrm2-6](https://cdn.codegoudan.com/img/lbrm2-6.png)
 
 </div>
 
 <div align=center>
 
-![17c5f067952de512c116006e90d60dc](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_222936720_0.jpg)
+![lbrm2-7](https://cdn.codegoudan.com/img/lbrm2-7.png)
 
 </div>
 
@@ -110,11 +110,19 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 **它的设立是单纯是为了操作的统一和方便**，其实就是为了在某些时候可以更方便的对链表进行操作，有了头结点，我们在对第一个元素前插入或者删除结点的时候，它的操作与其它结点的操作就统一了。
 
+<div align=center>
+
+![lbrm2-8](https://cdn.codegoudan.com/img/lbrm2-8.jpg)
+
+</div>
+
+
+
 除此以外，还有一种啥也没有，空空空空～**空链表**。
 
 <div align=center>
 
-![c95f4f8daede5e1436e4f151d67c9a9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223103179_0.jpg)
+![lbrm2-9](https://cdn.codegoudan.com/img/lbrm2-9.png)
 
 </div>
 
@@ -138,7 +146,7 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 <div align=center>
 
-![a8b69107b59d24e0041c699d60d4631](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223200224_0.jpg)
+![lbrm2-10](https://cdn.codegoudan.com/img/lbrm2-10.png)
 
 </div>
 
@@ -156,7 +164,7 @@ n 个节点可以链接成一个链表，如果**链表中的每个节点只包�
 
 <div align=center>
 
-![301c1d60b74bc309ffbb15a4be05039](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223243339_0.jpg)
+![lbrm2-11](https://cdn.codegoudan.com/img/lbrm2-11.png)
 
 </div>
 
@@ -188,7 +196,7 @@ easy！
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223356850_0.jpg" alt="abb885099d7b58620367165db16968f" style="zoom:33%;" />
+![lbrm2-12](https://cdn.codegoudan.com/img/lbrm2-12.jpg)
 
 </div>
 
@@ -200,13 +208,13 @@ easy！
 
 <div align=center>
 
-![020b62f932d358eacd3ee5f651eb25e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223428572_0.jpg)
+![lbrm2-13](https://cdn.codegoudan.com/img/lbrm2-13.png)
 
 </div>
 
 <div align=center>
 
-![2cb9fc27a26f481efb3e8328c9dd49a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223439515_0.jpg)
+![lbrm2-14](https://cdn.codegoudan.com/img/lbrm2-14.png)
 
 </div>
 
@@ -237,7 +245,7 @@ easy！
 
 <div align=center>
 
-![e92d0aa77426771927dfd8ca7ddc5bb](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223547129_0.jpg)
+![lbrm2-15](https://cdn.codegoudan.com/img/lbrm2-15.png)
 
 </div>
 
@@ -245,7 +253,7 @@ easy！
 
 <div align=center>
 
-![bf059ba243b152623abc253d880de9a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_223604561_0.jpg)
+![lbrm2-16](https://cdn.codegoudan.com/img/lbrm2-16.png)
 
 </div>
 
@@ -268,7 +276,7 @@ easy！
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_224011425_0.jpg" alt="2dbfc587a67a2494ca12c917edfa784" style="zoom: 50%;" />
+![lbrm2-17](https://cdn.codegoudan.com/img/lbrm2-17.jpg)
 
 </div>
 

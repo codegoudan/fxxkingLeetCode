@@ -8,7 +8,7 @@
 
 <div align=center>
 
-![77f544165a509f8f43c71223277473f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210559455_0.jpg)
+![hxbrm-0](https://cdn.codegoudan.com/img/hxbrm-0.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align=center>
 
-![0acdedc4db7edb76772d5d237fa2b1e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210625420_0.jpg)
+![hxbrm-1](https://cdn.codegoudan.com/img/hxbrm-1.png)
 
 </div>
 
@@ -54,7 +54,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210723391_0.jpg" alt="9fa2a5b94499f7f39c435e9008486da" style="zoom: 80%;" />
+![hxbrm-2](https://cdn.codegoudan.com/img/hxbrm-2.jpg)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align=center>
 
-![e6663bce0c0056a496dccf258b01f2f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210748960_0.jpg)
+![hxbrm-3](https://cdn.codegoudan.com/img/hxbrm-3.png)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align=center>
 
-![ccafbf412537b71c9de560c79c5b317](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210810209_0.jpg)
+![hxbrm-4](https://cdn.codegoudan.com/img/hxbrm-4.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@
 
 2. <div align=center>
 
-![456620c5ab284ff45f815b439155ea5](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210902163_0.jpg)
+![hxbrm-5](https://cdn.codegoudan.com/img/hxbrm-5.png)
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align=center>
 
-![ab0690e76fb88d62c4b855cf266a6e0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_210942363_0.jpg)
+![hxbrm-6](https://cdn.codegoudan.com/img/hxbrm-6.png)
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align=center>
 
-![9736c35960a546b7b7105038fea043d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211002059_0.jpg)
+![hxbrm-7](https://cdn.codegoudan.com/img/hxbrm-7.png)
 
 </div>
 
@@ -118,7 +118,7 @@
 
 <div align=center>
 
-![7d030317a37e4d7d976c7a633305149](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211023710_0.jpg)
+![hxbrm-8](https://cdn.codegoudan.com/img/hxbrm-8.png)
 
 </div>
 
@@ -170,7 +170,7 @@ n = 10 的数组，哈希函数 f(key) = key % 10，将 4，10，11，19，29，
 
 <div align=center>
 
-![be24a7e62a0d6723a4a014caa5d1ac7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211148548_0.jpg)
+![hxbrm-9](https://cdn.codegoudan.com/img/hxbrm-9.png)
 
 </div>
 
@@ -186,7 +186,7 @@ n = 10 的数组，哈希函数 f(key) = key % 10，将 4，10，11，19，29，
 
 <div align=center>
 
-![eccda6219c60f5bebd7263cfc6d992f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211216298_0.jpg)
+![hxbrm-10](https://cdn.codegoudan.com/img/hxbrm-10.png)
 
 </div>
 
@@ -216,7 +216,7 @@ n = 10 的数组，哈希函数 f(key) = key % 10，将 4，10，11，19，29，
 
 <div align=center>
 
-![10a2bba6321342db8c5c103cd3aa062](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211342787_0.jpg)
+![hxbrm-11](https://cdn.codegoudan.com/img/hxbrm-11.png)
 
 </div>
 
@@ -238,12 +238,6 @@ n = 10 的数组，哈希函数 f(key) = key % 10，将 4，10，11，19，29，
 
 是谁说出现冲突后只能找别的坑位的，几个人蹲一个坑它不香嘛。
 
-<div align=center>
-
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211434299_0.jpg" alt="56772bd4dd178fe9555edcd6248f607" style="zoom:80%;" />
-
-</div>
-
 可能真的有巨佬觉得香，然后就整出了链地址法。
 
 **链地址法呢是将得出同一个结果的 key 放在一个单链表中，哈希表存储每条单链表的头指针。**
@@ -254,7 +248,7 @@ n = 10 的数组，哈希函数 f(key) = key % 10，将 4，10，11，19，29，
 
 <div align=center>
 
-![e07658845f46aedee9970170ca323ca](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_211453258_0.jpg)
+![hxbrm-13](https://cdn.codegoudan.com/img/hxbrm-13.png)
 
 </div>
 

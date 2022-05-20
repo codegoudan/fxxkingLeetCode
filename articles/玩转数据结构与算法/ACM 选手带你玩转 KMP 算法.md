@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![701f8e7b90688a0fb11affe4be84b88](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103440152_0.jpg)
+![kmpsf-0](https://cdn.codegoudan.com/img/kmpsf-0.png)
 
 </div>
 
@@ -14,11 +14,17 @@
 
 **你们的需求就是我肝的方向！**上面的小老弟留言一次哪成，看着不像铁蛋粉。
 
+<div align=center>
+
+![kmpsf-1](https://cdn.codegoudan.com/img/kmpsf-1.gif)
+
+</div>
+
 这次保证安排的明明白白的，文章除了理解 KMP 算法的本质，拿去应付考试题也保证妥妥的！
 
 <div align=center>
 
-![e38a05e9f20deb93bea24eca8f34380](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103531018_0.jpg)
+![kmpsf-2](https://cdn.codegoudan.com/img/kmpsf-2.png)
 
 </div>
 
@@ -44,7 +50,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103626347_0.jpg" alt="0cca0f691dbe9a91e0b42544c50a88e" style="zoom:67%;" />
+![kmpsf-3](https://cdn.codegoudan.com/img/kmpsf-3.jpg)
 
 </div>
 
@@ -66,7 +72,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![6553058b532269600a8f53cc7d88b0e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103735184_0.jpg)
+![kmpsf-4](https://cdn.codegoudan.com/img/kmpsf-4.png)
 
 </div>
 
@@ -76,7 +82,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![91c4991bab43774e741cc39c00a2fa4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103755204_0.jpg)
+![kmpsf-5](https://cdn.codegoudan.com/img/kmpsf-5.png)
 
 </div>
 
@@ -84,7 +90,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![f64389bc4547760b9dd13bce79b89eb](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103813893_0.jpg)
+![kmpsf-6](https://cdn.codegoudan.com/img/kmpsf-6.png)
 
 </div>
 
@@ -100,7 +106,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_103834481_0.jpg" alt="d11ef50252d54448fa4f550d9ec72c8" style="zoom:67%;" />
+![kmpsf-7](https://cdn.codegoudan.com/img/kmpsf-7.png)
 
 </div>
 
@@ -116,7 +122,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![0bd25db07add8d8fad264d03bbb5c1d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104116493_0.jpg)
+![kmpsf-8](https://cdn.codegoudan.com/img/kmpsf-8.png)
 
 </div>
 
@@ -136,7 +142,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![86539c49b0307f4af82852d861944b5](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104153197_0.jpg)
+![kmpsf-9](https://cdn.codegoudan.com/img/kmpsf-9.png)
 
 </div>
 
@@ -144,7 +150,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![9963bb38e890a4ce9137dc311cfbb57](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104217070_0.jpg)
+![kmpsf-10](https://cdn.codegoudan.com/img/kmpsf-10.png)
 
 </div>
 
@@ -154,7 +160,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![d50598d9de2ca579faf7780a353d1d8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104246045_0.jpg)
+![kmpsf-11](https://cdn.codegoudan.com/img/kmpsf-11.png)
 
 </div>
 
@@ -168,7 +174,7 @@ KMP 算法匹配字符串非常高效，但是原理有些复杂，学起来脑�
 
 <div align=center>
 
-![60266587bae6717dcf3e2beb754d9fc](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104311702_0.jpg)
+![kmpsf-12](https://cdn.codegoudan.com/img/kmpsf-12.png)
 
 </div>
 
@@ -198,7 +204,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![5d9033d27152a4997659e8606a6eed7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104435751_0.jpg)
+![kmpsf-13](https://cdn.codegoudan.com/img/kmpsf-13.png)
 
 </div>
 
@@ -208,7 +214,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![2dac10349fdd49cf436a2ebb42ae2b8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104500663_0.jpg)
+![kmpsf-14](https://cdn.codegoudan.com/img/kmpsf-14.png)
 
 </div>
 
@@ -218,7 +224,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![2a0f709bad51c2935989cb906a9f89d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104526186_0.jpg)
+![kmpsf-15](https://cdn.codegoudan.com/img/kmpsf-15.png)
 
 </div>
 
@@ -226,7 +232,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![43f336f6f89b999b5da6b88abbd2fd0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104608549_0.jpg)
+![kmpsf-16](https://cdn.codegoudan.com/img/kmpsf-16.png)
 
 </div>
 
@@ -236,7 +242,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![55dd127c8a4d0bd441aea8c3cee3cb0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104635891_0.jpg)
+![kmpsf-17](https://cdn.codegoudan.com/img/kmpsf-17.png)
 
 </div>
 
@@ -248,7 +254,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![8cd25bb4bd43119c54a4e4cc4b86283](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104656662_0.jpg)
+![kmpsf-18](https://cdn.codegoudan.com/img/kmpsf-18.png)
 
 </div>
 
@@ -258,7 +264,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![b3979ac3d25adc9484831dd854d841c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104726955_0.jpg)
+![kmpsf-19](https://cdn.codegoudan.com/img/kmpsf-19.png)
 
 </div>
 
@@ -266,7 +272,7 @@ next 数组的求解，一向是老大难问题，而且这玩意不只是在写
 
 <div align=center>
 
-![460af406232da96be5071977c12f232](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104745406_0.jpg)
+![kmpsf-20](https://cdn.codegoudan.com/img/kmpsf-20.png)
 
 </div>
 
@@ -304,7 +310,7 @@ def getNext(T):
 
 <div align=center>
 
-![3d9002f8cca85c43671bd44d8906f02](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104850896_0.jpg)
+![kmpsf-21](https://cdn.codegoudan.com/img/kmpsf-21.png)
 
 </div>
 
@@ -314,7 +320,7 @@ def getNext(T):
 
 <div align=center>
 
-![d3afc9c2b8a7df50838141ea79ce82d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104928752_0.jpg)
+![kmpsf-22](https://cdn.codegoudan.com/img/kmpsf-22.png)
 
 </div>
 
@@ -322,7 +328,7 @@ def getNext(T):
 
 <div align=center>
 
-![30a59603938381186ed54ada7a60b52](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_104952069_0.jpg)
+![kmpsf-23](https://cdn.codegoudan.com/img/kmpsf-23.png)
 
 </div>
 
@@ -330,7 +336,7 @@ def getNext(T):
 
 <div align=center>
 
-![67084b73379b772f890d96eff2439b0](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_105019236_0.jpg)
+![kmpsf-24](https://cdn.codegoudan.com/img/kmpsf-24.png)
 
 </div>
 
@@ -338,7 +344,7 @@ def getNext(T):
 
 <div align=center>
 
-![856770c51f80290ab64d4074b6fd559](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_105109265_0.jpg)
+![kmpsf-25](https://cdn.codegoudan.com/img/kmpsf-25.png)
 
 </div>
 
@@ -346,7 +352,7 @@ def getNext(T):
 
 <div align=center>
 
-![0d27246abf2a8cba728199933d09145](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_105129654_0.png)
+![kmpsf-26](https://cdn.codegoudan.com/img/kmpsf-26.png)
 
 </div>
 
@@ -354,7 +360,7 @@ def getNext(T):
 
 <div align=center>
 
-![fe01d3e7ccb288177f180091d6ba6ef](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_105152271_0.jpg)
+![kmpsf-27](https://cdn.codegoudan.com/img/kmpsf-27.png)
 
 </div>
 
@@ -395,7 +401,7 @@ KMP 的讲解到这就全部结束了，真不容易呀，写了好久好久好�
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220112_105244010_0.jpg" alt="0e88c63158d2916cb5ef1300b07c4ee" style="zoom:67%;" />
+![kmpsf-28](https://cdn.codegoudan.com/img/kmpsf-28.jpg)
 
 </div>
 

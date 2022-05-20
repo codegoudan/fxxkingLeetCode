@@ -10,7 +10,7 @@
 
 <div align=center>
 
-![0adc6d41f786ba17e56c7e55a2d9de6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_103839129_0.jpg)
+![ecsrm-0](https://cdn.codegoudan.com/img/ecsrm-0.png)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align=center>
 
-![69c43b718da5d88e08a50e50a78d257](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_103910550_0.jpg)
+![ecsrm-1](https://cdn.codegoudan.com/img/ecsrm-1.png)
 
 </div>
 
@@ -50,7 +50,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_103953082_0.jpg" alt="d517029d3d19ad84de7b2987342d9e2" style="zoom:33%;" />
+![ecsrm-2](https://cdn.codegoudan.com/img/ecsrm-2.jpg)
 
 </div>
 
@@ -64,7 +64,7 @@
 
 <div align=center>
 
-![6bfcca8d1f5759b0514a33b973246f5](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104012733_0.jpg)
+![ecsrm1-3](https://cdn.codegoudan.com/img/ecsrm1-3.png)
 
 </div>
 
@@ -99,6 +99,12 @@ def BinarySearch(arr, low, high, target):
 
 如果你写的丝毫不错，请在留言区告诉我，我要当你的舔狗。
 
+<div align=center>
+
+![ecsrm-4](https://cdn.codegoudan.com/img/ecsrm-4.gif)
+
+</div>
+
 刚刚是个小插曲，下面回到正题，我来详细说一下需要注意的点。
 
 
@@ -130,7 +136,7 @@ if arr[mid] == target:
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104209243_0.jpg" alt="3e775dd44bd6e1fbe0edd26923577e0" style="zoom:67%;" />
+![ecsrm-5](https://cdn.codegoudan.com/img/ecsrm-5.jpg)
 
 </div>
 
@@ -181,7 +187,7 @@ mid = low + (high - low) / 2
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104400252_0.jpg" alt="e3063a63b8e566e3602405658338fc5" style="zoom: 67%;" />
+![ecsrm-6](https://cdn.codegoudan.com/img/ecsrm-6.jpg)
 
 </div>
 
@@ -199,7 +205,7 @@ mid = low + (high - low) / 2
 
 <div align=center>
 
-![b216401cb81fdc0149bb7cf46966218](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104430570_0.jpg)
+![ecsrm1-7](https://cdn.codegoudan.com/img/ecsrm1-7.png)
 
 </div>
 
@@ -207,7 +213,7 @@ mid = low + (high - low) / 2
 
 <div align=center>
 
-![98e9626bc212eb6b940e9a014bc9c7c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104448123_0.jpg)
+![ecsrm1-8](https://cdn.codegoudan.com/img/ecsrm1-8.png)
 
 </div>
 
@@ -215,7 +221,7 @@ mid = low + (high - low) / 2
 
 <div align=center>
 
-![8e2eb20f62411311d044a367878200c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104504301_0.jpg)
+![ecsrm1-9](https://cdn.codegoudan.com/img/ecsrm1-9.png)
 
 </div>
 
@@ -225,7 +231,7 @@ mid = low + (high - low) / 2
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_104522197_0.jpg" alt="bb10ea1267473b1bd44faedb2954ca0" style="zoom: 67%;" />
+![ecsrm-10](https://cdn.codegoudan.com/img/ecsrm-10.jpg)
 
 </div>
 

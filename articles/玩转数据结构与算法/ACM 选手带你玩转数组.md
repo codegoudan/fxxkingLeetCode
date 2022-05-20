@@ -16,7 +16,7 @@
 
 <div align=center>
 
-![a9972c7cbbf3eb25b6d5b09d4d003f1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230154472_0.jpg)
+![shuzu1-0](https://cdn.codegoudan.com/img/shuzu1-0.png)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align=center>
 
-![12835bb4f9765bdfd462143326bab6c](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230223239_0.jpg)
+![shuzu1-1](https://cdn.codegoudan.com/img/shuzu1-1.jpg)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align=center>
 
-![43ee9571fdc694588f34e86ab6141ac](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230315310_0.jpg)
+![shuzu1-2](https://cdn.codegoudan.com/img/shuzu1-2.jpg)
 
 </div>
 
@@ -65,7 +65,7 @@
 
 <div align=center>
 
-![14f791c8c07ac113597a1bbaa163265](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230335056_0.jpg)
+![shuzu1-3](https://cdn.codegoudan.com/img/shuzu1-3.png)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 <div align=center>
 
-![0b9fef495772ac54145d8828ddb6a2f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230522137_0.jpg)
+![shuzu1-4](https://cdn.codegoudan.com/img/shuzu1-4.png)
 
 </div>
 
@@ -105,7 +105,7 @@ address[i] = address[0] + i
 
 <div align=center>
 
-![4b79d83d9c51ae314aae16f6a093a06](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230626637_0.jpg)
+![shuzu1-5](https://cdn.codegoudan.com/img/shuzu1-5.jpg)
 
 </div>
 
@@ -119,7 +119,7 @@ address[i] = address[0] + i
 
 <div align=center>
 
-![49dc6ce0730697129be31350bf5efce](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230703471_0.jpg)
+![shuzu1-6](https://cdn.codegoudan.com/img/shuzu1-6.png)
 
 </div>
 
@@ -132,15 +132,14 @@ address[i] = address[0] + i
 
 <div align=center>
 
-![313be028a1ea84077bc8a9badb20a0f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230740642_0.jpg)
+![shuzu1-7](https://cdn.codegoudan.com/img/shuzu1-7.jpg)
 
 </div>
 
 对删除来说，和插入操作也差不多，比如我们删除下标为 2 位置上的元素。
 
 <div align=center>
-
-![a117ef9b6819d4ec22beb16f8b4cd50](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230756121_0.jpg)
+![shuzu1-8](https://cdn.codegoudan.com/img/shuzu1-8.png)
 
 </div>
 
@@ -165,7 +164,7 @@ print(lst[4])
 
 <div align=center>
 
-![846fe0e20a5f1980cf0194f02686fec](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_230851801_0.jpg)
+![shuzu1-9](https://cdn.codegoudan.com/img/shuzu1-9.jpg)
 
 </div>
 
