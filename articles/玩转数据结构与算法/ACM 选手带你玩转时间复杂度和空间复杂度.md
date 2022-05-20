@@ -1,12 +1,38 @@
-大家好，我是蛋蛋！
+大家好呀，我是蛋蛋。
+
+数据结构与算法，作为编程界从入门到劝退的王者，是很多初学者心中神圣而想侵犯的村花儿，化身舔狗，费尽心思，舔到最后，我命油我不油天。
+
+<div align=center>
+
+![sjfzdkjfzd-0](https://cdn.codegoudan.com/img/sjfzdkjfzd-0.jpg)
+
+</div>
+
+作为一名大学之前编程能力为零，以为计算机专业就是打游戏的咸鱼，到参加 ACM 竞赛，靠着划水和抱大腿拿了几块金银铜铁牌的前 ACM 混子选手，想起之前疯狂跪舔数据结构和算法的日子，至今我扔能掬出一把辛酸泪。
+
+<div align=center>
+
+![sjfzdkjfzd-1](https://cdn.codegoudan.com/img/sjfzdkjfzd-1.jpg)
+
+</div>
+
+为了让臭宝们不再像我这样当个人这么难，我决定和大家一起学习数据结构与算法，我希望能用傻瓜的方式，由浅入深，从概念到实践，一步一步的来，这个过程可能会很长，我希望在这个过程中你能喜欢上它，能发现它们冰冷外表下有趣的灵魂。
+
+<div align=center>
+
+![sjfzdkjfzd-2](https://cdn.codegoudan.com/img/sjfzdkjfzd-2.jpg)
+
+</div>
 
 复杂度分析主要就是时间复杂度和空间复杂度，接下来的文章也主要围绕这两方面来讲。废话不多说，前排马扎瓜子准备好，蛋蛋小课堂正式接客。
 
 <div align=center>
 
-![3c8b4b4b347be28e6e7ba920da4ac28](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_173630567_0.jpg)
+![sjfzdkjfzd-3](https://cdn.codegoudan.com/img/sjfzdkjfzd-3.png)
 
 </div>
+
+
 
 # 复杂度分析
 
@@ -18,13 +44,19 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170536104_0.jpg" alt="841e629526bad79da1f261ef22f57e4" style="zoom:80%;" />
+![sjfzdkjfzd-4](https://cdn.codegoudan.com/img/sjfzdkjfzd-4.jpg)
 
 </div>
 
 我平常白天做梦的时候，总是想着当当咸鱼划划水就能赚大钱，最好就是能躺着，钱就直接砸到我脑阔上。数据结构与算法虽然没有本蛋这么大的梦想，但是它的出现也是想着花更少的时间和更少的存储来解决问题。
 
 那如何去考量“**更少的时间和更少的存储**”，复杂度分析为此而生。
+
+<div align=center>
+
+![sjfzdkjfzd-5](https://cdn.codegoudan.com/img/sjfzdkjfzd-5.gif)
+
+</div>
 
 > **蛋蛋**：所以为什么复杂度分析重要你们知道了叭？
 >
@@ -44,7 +76,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170453363_0.jpg" alt="e243977cfd3ab4e0a24d432bad980f9" style="zoom: 50%;" />
+![sjfzdkjfzd-6](https://cdn.codegoudan.com/img/sjfzdkjfzd-6.jpg)
 
 </div>
 
@@ -64,7 +96,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170440101_0.jpg" alt="a3ad51bbbfe89094c390dcefca98bcf" style="zoom:67%;" />
+![sjfzdkjfzd-7](https://cdn.codegoudan.com/img/sjfzdkjfzd-7.jpg)
 
 </div>
 
@@ -80,7 +112,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170426974_0.jpg" alt="9671fb039a9fd6df3d2b09de638a558" style="zoom:67%;" />
+![sjfzdkjfzd-8](https://cdn.codegoudan.com/img/sjfzdkjfzd-8.jpg)
 
 </div>
 
@@ -123,7 +155,7 @@ def dogeggs_sum (n):
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170412580_0.jpg" alt="d5ccaa88645597b99e86b2f4123a953" style="zoom: 50%;" />
+![sjfzdkjfzd-9](https://cdn.codegoudan.com/img/sjfzdkjfzd-9.jpg)
 
 </div>
 
@@ -137,7 +169,7 @@ def dogeggs_sum (n):
 
 <div align=center>
 
-![a8e55e68c25472d332026054eab4376](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170402404_0.jpg)
+![sjfzdkjfzd-10](https://cdn.codegoudan.com/img/sjfzdkjfzd-10.png)
 
 </div>
 
@@ -205,7 +237,7 @@ def dogeggs_sum (n):
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170349565_0.jpg" alt="eb4c23941d5a7f506df7199b0792e8a" style="zoom:80%;" />
+![sjfzdkjfzd-11](https://cdn.codegoudan.com/img/sjfzdkjfzd-11.jpg)
 
 </div>
 
@@ -260,7 +292,7 @@ while dogegg < n:
 
 <div align=center>
 
-![baa2ae991ecd8ee28c096a7158418e3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170337329_0.jpg)
+![sjfzdkjfzd-12](https://cdn.codegoudan.com/img/sjfzdkjfzd-12.png)
 
 </div>
 
@@ -268,7 +300,7 @@ while dogegg < n:
 
 <div align=center>
 
-![c2a5b74ac6758928a953d695ef276ce](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170331248_0.jpg)
+![sjfzdkjfzd-13](https://cdn.codegoudan.com/img/sjfzdkjfzd-13.png)
 
 </div>
 
@@ -276,7 +308,7 @@ while dogegg < n:
 
 <div align=center>
 
-![426768f16b2624f36b2426a7fc29837](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170323844_0.jpg)
+![sjfzdkjfzd-14](https://cdn.codegoudan.com/img/sjfzdkjfzd-14.png)
 
 </div>
 
@@ -288,7 +320,7 @@ while dogegg < n:
 
 <div align=center>
 
-![87196511cc38c4ce5a1b616cb79ab46](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170306601_0.jpg)
+![sjfzdkjfzd-15](https://cdn.codegoudan.com/img/sjfzdkjfzd-15.png)
 
 </div>
 
@@ -296,7 +328,7 @@ while dogegg < n:
 
 <div align=center>
 
-![c1ad669cd091db985564c170bbae212](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170248508_0.jpg)
+![sjfzdkjfzd-16](https://cdn.codegoudan.com/img/sjfzdkjfzd-16.png)
 
 </div>
 
@@ -304,7 +336,7 @@ while dogegg < n:
 
 <div align=center>
 
-![9aeca2653fa3771e6d4145b07398cf7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170239320_0.jpg)
+![sjfzdkjfzd-17](https://cdn.codegoudan.com/img/sjfzdkjfzd-17.png)
 
 </div>
 
@@ -332,9 +364,11 @@ def stupid_cnt(n):
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170226514_0.jpg" alt="981494700979d1faa8e8c390762683b" style="zoom:67%;" />
+![sjfzdkjfzd-18](https://cdn.codegoudan.com/img/sjfzdkjfzd-18.jpg)
 
 </div>
+
+
 
 ## 最好情况、最坏情况和平均情况时间复杂度
 
@@ -394,7 +428,7 @@ def find_word(lst, word):
 
 <div align=center>
 
-![c73b893dd0a027c31b659555c019789](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170210098_0.jpg)
+![sjfzdkjfzd-19](https://cdn.codegoudan.com/img/sjfzdkjfzd-19.png)
 
 </div>
 
@@ -406,7 +440,7 @@ def find_word(lst, word):
 
 <div align=center>
 
-![a335eac2c3512962a06ab6325e4504b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170159474_0.jpg)
+![sjfzdkjfzd-20](https://cdn.codegoudan.com/img/sjfzdkjfzd-20.png)
 
 </div>
 
@@ -446,7 +480,7 @@ def find_word(lst, word):
 
 <div align=center>
 
-![3f49fdacf9fcf8560613e0350e1f43d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170148264_0.jpg)
+![sjfzdkjfzd-21](https://cdn.codegoudan.com/img/sjfzdkjfzd-21.png)
 
 </div>
 
@@ -513,11 +547,13 @@ def create_lst(n):
 
 到这里，复杂度分析就全部讲完啦，只要臭宝们认真看完这篇文章，相信会对复杂度分析有个基本的认识。复杂度分析本身不难，只要多加练习，平时写代码的时候有意识的多想估算一下自己的代码，感觉就会慢慢来啦。
 
-这是第一篇文章，写完真心不太容易，希望开了个好头。
+这是公众号的第一篇，写完真心不太容易，希望开了个好头。码字不易，臭宝们多多支持呀，给我点赞呀。
+
+我是蛋蛋，我们下次见～
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_170134616_0.jpg" alt="6df0e1c0c99a1d202429b8776215f91" style="zoom:50%;" />
+![sjfzdkjfzd-22](https://cdn.codegoudan.com/img/sjfzdkjfzd-22.jpg)
 
 </div>
 
