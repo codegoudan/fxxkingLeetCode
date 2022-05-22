@@ -51,7 +51,7 @@
 
 学习数据结构与算法的第一课，我永远都选**复杂度分析**，在我看来，这是数据结构与算法中最重要的知识点，且不接受任何反驳。
 
-![复杂度分析思维导图](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220114_141952768_20.jpg)
+![复杂度分析思维导图](https://cdn.codegoudan.com/img/sjfzdkjfzd-3.png)
 
 - [保姆级教学！彻底学会时间复杂度和空间复杂度](https://github.com/codegoudan/fxxkingLeetCode/blob/master/articles/%E7%8E%A9%E8%BD%AC%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95/ACM%20%E9%80%89%E6%89%8B%E5%B8%A6%E4%BD%A0%E7%8E%A9%E8%BD%AC%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E5%92%8C%E7%A9%BA%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6.md)
 
