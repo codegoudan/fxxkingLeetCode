@@ -8,7 +8,7 @@
 
 <div align=center>
 
-![19b5b4f04c1749c80129a3a5efc11e6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_184119700_0.jpg)
+![225-0](https://cdn.codegoudan.com/img/225-0.png)
 
 </div>
 
@@ -33,7 +33,7 @@
 
 <div align=center>
 
-![d574f58cba262d0590b1c8f37a46d08](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_184422011_0.jpg)
+![225-1](https://cdn.codegoudan.com/img/225-1.png)
 
 </div>
 
@@ -89,7 +89,7 @@
 
 <div align=center>
 
-![a873becbcc63431031412d6e4c68bfd](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_184545176_0.jpg)
+![225-2](https://cdn.codegoudan.com/img/225-2.png)
 
 </div>
 
@@ -105,7 +105,7 @@ push(x)，入栈操作，先压入辅助队列，再将主队列的元素加入�
 
 <div align=center>
 
-![3b78f51d94f412eebcc1560143342e6](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_184618600_0.jpg)
+![225-3](https://cdn.codegoudan.com/img/225-3.png)
 
 </div>
 
@@ -113,7 +113,7 @@ push(x)，入栈操作，先压入辅助队列，再将主队列的元素加入�
 
 <div align=center>
 
-![16a210202815ea164a50dd77c5f0587](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_184635333_0.jpg)
+![225-4](https://cdn.codegoudan.com/img/225-4.png)
 
 </div>
 
@@ -135,7 +135,7 @@ pop()，出栈操作，出栈出的是栈顶元素，由上图可以看出，栈
 
 <div align=center>
 
-![7afaff00fc3ccc5ec2bdf4e230f5ef8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_184712386_0.jpg)
+![225-5](https://cdn.codegoudan.com/img/225-5.png)
 
 </div>
 

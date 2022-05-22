@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![10c1045ba37361eaa7aed40a7b96568](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181156126_0.jpg)
+![27-3](https://cdn.codegoudan.com/img/27-3.png)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align=center>
 
-![531419fc699416d94ae936e8eec5a28](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181403277_0.jpg)
+![27-4](https://cdn.codegoudan.com/img/27-4.png)
 
 </div>
 
@@ -85,7 +85,7 @@
 
 <div align=center>
 
-![cd1c475a49930e45c4bb51feb3a7271](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181510203_0.jpg)
+![27-5](https://cdn.codegoudan.com/img/27-5.png)
 
 </div>
 
@@ -102,7 +102,7 @@ fast = slow = 0
 
 <div align=center>
 
-![25876de145355d74e629646b3e36e40](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181544348_0.jpg)
+![27-6](https://cdn.codegoudan.com/img/27-6.png)
 
 </div>
 
@@ -121,7 +121,7 @@ if nums[fast] != val:
 
 <div align=center>
 
-![4bc2813c314ec1ff1f15b55247ae5b3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181616368_0.jpg)
+![27-7](https://cdn.codegoudan.com/img/27-7.png)
 
 </div>
 
@@ -131,7 +131,7 @@ if nums[fast] != val:
 
 <div align=center>
 
-![8e3592db04761a2d481077f57ddba9e](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181637893_0.jpg)
+![27-8](https://cdn.codegoudan.com/img/27-8.png)
 
 </div>
 
@@ -147,7 +147,7 @@ fast += 1
 
 <div align=center>
 
-![3198d260886f3edf211d0e3bb40ce02](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181716945_0.jpg)
+![27-9](https://cdn.codegoudan.com/img/27-9.png)
 
 </div>
 
@@ -157,7 +157,7 @@ fast += 1
 
 <div align=center>
 
-![10b0f075f12d8620ec842aa54f9d7be](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181733887_0.jpg)
+![27-10](https://cdn.codegoudan.com/img/27-10.png)
 
 </div>
 
@@ -167,7 +167,7 @@ fast += 1
 
 <div align=center>
 
-![64b4fa5d11d5d992b60c840e8c80217](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181755237_0.jpg)
+![27-11](https://cdn.codegoudan.com/img/27-11.png)
 
 </div>
 
@@ -177,7 +177,7 @@ fast += 1
 
 <div align=center>
 
-![358bcc605613b94bd6674c8681c4974](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211217_181818439_0.jpg)
+![27-12](https://cdn.codegoudan.com/img/27-12.png)
 
 </div>
 

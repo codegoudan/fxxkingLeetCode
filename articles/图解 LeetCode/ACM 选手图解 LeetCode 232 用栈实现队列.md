@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![b690cb61fe7a0641e88ae71c7be33fd](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_171941745_0.jpg)
+![232-0](https://cdn.codegoudan.com/img/232-0.png)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align=center>
 
-![a136f1763dc4b0004659ad76570c555](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_172023414_0.jpg)
+![232-1](https://cdn.codegoudan.com/img/232-1.png)
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align=center>
 
-![bf0649d5850c6b0c488bb41481731da](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_172137631_0.jpg)
+![232-2](https://cdn.codegoudan.com/img/232-2.png)
 
 </div>
 
@@ -99,7 +99,7 @@ push(x) ，入队操作，直接压入输入栈即可。
 
 <div align=center>
 
-![ec707d02f08a529375faac008c73d12](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_172210106_0.jpg)
+![232-3](https://cdn.codegoudan.com/img/232-3.png)
 
 </div>
 
@@ -115,7 +115,7 @@ pop()， 出队操作，如果输出栈不为空的话，直接扔出栈顶元�
 
 <div align=center>
 
-![78c2da16f1bd9221e94bb4f23d46201](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_172240157_0.jpg)
+![232-4](https://cdn.codegoudan.com/img/232-4.png)
 
 </div>
 
@@ -141,7 +141,7 @@ empty()，判空操作。判空很简单，输入栈和输出栈都为空，则�
 
 <div align=center>
 
-![afe2731bb76de682cbcb3663681b07f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_172311824_0.jpg)
+![232-5](https://cdn.codegoudan.com/img/232-5.png)
 
 </div>
 

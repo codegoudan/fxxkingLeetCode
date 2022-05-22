@@ -2,7 +2,7 @@
 
 <div align=center>
 
-![ba9a470198d6f15114b7f737a5e6267](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_225306850_0.jpg)
+![707-0](https://cdn.codegoudan.com/img/707-0.png)
 
 </div>
 
@@ -30,7 +30,7 @@
 
 <div align=center>
 
-![805c778b729255ff554dbd2d851d872](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_225559788_0.jpg)
+![707-1](https://cdn.codegoudan.com/img/707-1.png)
 
 </div>
 
@@ -97,7 +97,7 @@ get(index) ，查找节点，没啥好说的，就是傻傻的从第 1 个节点
 
 <div align=center>
 
-![bfa0c5719c253c4c3621f59dac0f62f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230056881_0.jpg)
+![707-2](https://cdn.codegoudan.com/img/707-2.png)
 
 </div>
 
@@ -113,7 +113,7 @@ addAtHead(val) ，在链表第一个节点前插入一个节点，很好插，�
 
 <div align=center>
 
-![3e166aabb6637f936a0fcd544405716](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230136276_0.jpg)
+![707-3](https://cdn.codegoudan.com/img/707-3.png)
 
 </div>
 
@@ -123,7 +123,7 @@ addAtHead(val) ，在链表第一个节点前插入一个节点，很好插，�
 
 <div align=center>
 
-![397ae4bcd286fa2dc7d08bc3f1f07c5](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230200671_0.jpg)
+![707-4](https://cdn.codegoudan.com/img/707-4.png)
 
 </div>
 
@@ -137,7 +137,7 @@ addAtTail(val) 相当于 addAtIndex(length, val)。
 
 <div align=center>
 
-![f59e7add21395b30d3bf0031d7f9264](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230224419_0.jpg)
+![707-5](https://cdn.codegoudan.com/img/707-5.png)
 
 </div>
 
@@ -147,7 +147,7 @@ deleteAtIndex(index)，删除链表的第 index 个节点，同样是找到要�
 
 <div align=center>
 
-![d4801498e49603d90bd98274bef8a73](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211223_230246269_0.jpg)
+![707-6](https://cdn.codegoudan.com/img/707-6.png)
 
 </div>
 

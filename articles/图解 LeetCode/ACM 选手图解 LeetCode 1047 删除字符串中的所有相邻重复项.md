@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220115_221611704_20.jpg" alt="88fee799034104315b5988bde33ee31"  />
+![1047-0](https://cdn.codegoudan.com/img/1047-0.png)
 
 </div>
 
@@ -80,7 +80,8 @@ stack = []
 所以第 1 步，当前元素为 a，栈为空，所以元素 a 入栈。
 
 <div align=center>
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170036175_0.jpg" alt="6ff8db8534a48f0da8247d21a384e8e"  />
+
+![1047-1](https://cdn.codegoudan.com/img/1047-1.png)
 
 </div>
 
@@ -88,7 +89,7 @@ stack = []
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170052282_0.jpg" alt="1196118d8fba6357150739c12ce1165"  />
+![1047-2](https://cdn.codegoudan.com/img/1047-2.png)
 
 </div>
 
@@ -96,7 +97,7 @@ stack = []
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170107813_0.jpg" alt="22af199d53f7e87d501f57ab54964e6"  />
+![1047-3](https://cdn.codegoudan.com/img/1047-3.png)
 
 </div>
 
@@ -110,7 +111,7 @@ for char in s:
 
 <div align=center>
 
-![d572722e0769d45a0127719121695f7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170138102_0.jpg)
+![1047-4](https://cdn.codegoudan.com/img/1047-4.png)
 
 </div>
 
@@ -120,7 +121,7 @@ for char in s:
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_170156784_0.jpg" alt="2b7819f489cfcdb21dc3b134d907974"  />
+![1047-5](https://cdn.codegoudan.com/img/1047-5.png)
 
 </div>
 

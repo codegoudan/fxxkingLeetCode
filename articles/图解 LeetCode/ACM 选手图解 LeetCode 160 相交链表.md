@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![ebfe8f04df82891c77f29b869f7f753](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_153627068_0.jpg)
+![160-0](https://cdn.codegoudan.com/img/160-0.png)
 
 </div>
 
@@ -28,7 +28,7 @@
 
 <div align=center>
 
-![e1558939fd5da6eaf1dcc83a84aa50a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_153948470_0.jpg)
+![160-1](https://cdn.codegoudan.com/img/160-1.png)
 
 </div>
 
@@ -60,7 +60,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154043261_0.jpg" alt="bf8421e47e72f8a3724ad76bdb37134" style="zoom:67%;" />
+![160-2](https://cdn.codegoudan.com/img/160-2.jpg)
 
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align=center>
 
-![1266ec8549c864358f70b0c8ab7c9f1](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154105493_0.jpg)
+![160-3](https://cdn.codegoudan.com/img/160-3.png)
 
 </div>
 
@@ -125,7 +125,7 @@ $$
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154227320_0.jpg" alt="61ab1d3b13faf51fe8777586d7800d9" style="zoom:67%;" />
+![160-4](https://cdn.codegoudan.com/img/160-4.jpg)
 
 </div>
 
@@ -151,7 +151,7 @@ $$
 
 <div align=center>
 
-![52446d6140120371ee1bcadcedf43f4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154308997_0.jpg)
+![160-5](https://cdn.codegoudan.com/img/160-5.png)
 
 </div>
 
@@ -178,7 +178,7 @@ while flagB:
 
 <div align=center>
 
-![ce7457cfcbbd47078b220a688129e03](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154403495_0.jpg)
+![160-6](https://cdn.codegoudan.com/img/160-6.png)
 
 </div>
 
@@ -204,7 +204,7 @@ flagB = flagB.next
 
 <div align=center>
 
-![41131b4fc18894807440a72c7f92b52](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154501500_0.jpg)
+![160-7](https://cdn.codegoudan.com/img/160-7.png)
 
 </div>
 
@@ -223,7 +223,7 @@ flagB = flagB.next
 
 <div align=center>
 
-![5e3f024c0ae1c3ec40f3139411b0b69](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220102_154530733_0.jpg)
+![160-8](https://cdn.codegoudan.com/img/160-8.jpg)
 
 </div>
 
