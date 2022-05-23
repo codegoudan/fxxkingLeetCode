@@ -10,7 +10,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_223904057_0.jpg" alt="2fe3a304be64a288e43d42da96cd776" style="zoom:67%;" />
+![344-8](https://cdn.codegoudan.com/img/344-8.jpg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <div align=center>
 
-![6c18e0e5be490c8e74abfeea82e4bc3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_223923113_0.jpg)
+![344-0](https://cdn.codegoudan.com/img/344-0.png)
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_223935719_0.jpg" alt="f038fb1edfadd64eadab56c2c4cf99c" style="zoom:50%;" />
+![344-1](https://cdn.codegoudan.com/img/344-1.jpg)
 
 </div>
 
@@ -93,6 +93,12 @@
 
 言止于此，希望你能听进去，希望你一定要听进去。
 
+<div align=center>
+
+![344-2](https://cdn.codegoudan.com/img/344-2.gif)
+
+</div>
+
 
 
 # 图解
@@ -101,7 +107,7 @@
 
 <div align=center>
 
-![76aafcc88177caf196d1e1cd1b8d5c7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_224115602_0.jpg)
+![344-3](https://cdn.codegoudan.com/img/344-3.png)
 
 </div>
 
@@ -115,7 +121,7 @@ right = len(s) - 1
 
 <div align=center>
 
-![7165c5f19728db71c9320b87eb925e7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_224132115_0.jpg)
+![344-4](https://cdn.codegoudan.com/img/344-4.png)
 
 </div>
 
@@ -133,7 +139,7 @@ right -= 1
 
 <div align=center>
 
-![2a90e290949cb6364642c4daa4c6fd8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_224146129_0.jpg)
+![344-5](https://cdn.codegoudan.com/img/344-5.png)
 
 </div>
 
@@ -141,7 +147,7 @@ right -= 1
 
 <div align=center>
 
-![fd33d91e43fee88c132b5a6fe479488](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_224154629_0.jpg)
+![344-6](https://cdn.codegoudan.com/img/344-6.png)
 
 </div>
 
@@ -149,7 +155,7 @@ left 向右移动 1，right 向左移动 1，此时 left = right，结束。
 
 <div align=center>
 
-![b6216bd33d990257f5246b3ab20bdb2](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202112/20211216_224213386_0.jpg)
+![344-7](https://cdn.codegoudan.com/img/344-7.png)
 
 </div>
 
