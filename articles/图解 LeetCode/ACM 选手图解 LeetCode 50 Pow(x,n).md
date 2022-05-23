@@ -1,6 +1,6 @@
 <div align=center>
 
-![52f498ca57973794c7cd7b36a344572](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_212906358_0.jpg)
+![50-2](https://cdn.codegoudan.com/img/50-2.png)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align=center>
 
-![4bf5f65f2692cf4df212c0d6ee09efe](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_213115761_0.jpg)
+![50-3](https://cdn.codegoudan.com/img/50-3.png)
 
 </div>
 
@@ -106,7 +106,7 @@ n 为负数时，-n 是正数，x 的 n 次方，相当于就是 x^ (-n) ，按�
 
 <div align=center>
 
-![eb0a30d838507e272687c26d1b75bc9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_213156797_0.jpg)
+![50-4](https://cdn.codegoudan.com/img/50-4.png)
 
 </div>
 

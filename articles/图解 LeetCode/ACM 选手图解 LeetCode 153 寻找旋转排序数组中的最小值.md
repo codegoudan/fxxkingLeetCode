@@ -1,6 +1,6 @@
 <div align=center>
 
-![dd2612f6852cdb79b80690ad4fafe95](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_174509624_0.jpg)
+![153-3](https://cdn.codegoudan.com/img/153-3.png)
 
 </div>
 
@@ -84,7 +84,7 @@
 
 <div align=center>
 
-![5aa7d055464be49ddd582878d1b2442](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_174810450_0.jpg)
+![153-4](https://cdn.codegoudan.com/img/153-4.png)
 
 </div>
 
@@ -97,7 +97,7 @@ nums_min = float('inf')
 
 <div align=center>
 
-![bc6006343b49e55e32137e3585e0b1b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_174833023_0.jpg)
+![153-5](https://cdn.codegoudan.com/img/153-5.png)
 
 </div>
 
@@ -109,7 +109,7 @@ mid = low + (high - low) // 2
 
 <div align=center>
 
-![56605059554c128aace18fc983c709a](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_174859287_0.jpg)
+![153-6](https://cdn.codegoudan.com/img/153-6.png)
 
 </div>
 
@@ -124,7 +124,7 @@ nums_min > nums[low]，维护最小值指针 nums_min，同时 low 向右移动�
 
 <div align=center>
 
-![38fc38627d1d6bd8f7e29c75a30a518](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_174928950_0.jpg)
+![153-7](https://cdn.codegoudan.com/img/153-7.png)
 
 </div>
 
@@ -139,7 +139,7 @@ if nums[low] < nums[mid]:
 
 <div align=center>
 
-![b8394cf1bed3f52eec5fb37df09c32b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_174953536_0.jpg)
+![153-8](https://cdn.codegoudan.com/img/153-8.png)
 
 </div>
 
@@ -147,7 +147,7 @@ if nums[low] < nums[mid]:
 
 <div align=center>
 
-![cc0886aff2a1d57edf7638b9024be20](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_175011042_0.jpg)
+![153-9](https://cdn.codegoudan.com/img/153-9.png)
 
 </div>
 
@@ -157,7 +157,7 @@ nums_min > nums[low]，维护最小值指针 nums_min，同时 low 向右移动�
 
 <div align=center>
 
-![a1030bf10866c0415efa4eaed3970cf](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_175028637_0.jpg)
+![153-10](https://cdn.codegoudan.com/img/153-10.png)
 
 </div>
 
@@ -165,7 +165,7 @@ nums_min > nums[low]，维护最小值指针 nums_min，同时 low 向右移动�
 
 <div align=center>
 
-![237e85e2390d241f97f5842c5cb3968](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_175042858_0.jpg)
+![153-11](https://cdn.codegoudan.com/img/153-11.png)
 
 </div>
 
@@ -175,7 +175,7 @@ nums_min > nums[low]，维护最小值指针 nums_min，同时 low 向右移动�
 
 <div align=center>
 
-![a11989c6a233e69bc6bfc1f8ce64d54](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220104_175100956_0.jpg)
+![153-12](https://cdn.codegoudan.com/img/153-12.png)
 
 </div>
 

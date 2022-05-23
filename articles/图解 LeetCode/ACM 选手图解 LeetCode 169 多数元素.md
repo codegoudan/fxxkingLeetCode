@@ -8,7 +8,7 @@
 
 <div align=center>
 
-![bb174b6f24e40037121c9505ae99e16](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_213551757_0.jpg)
+![169-1](https://cdn.codegoudan.com/img/169-1.png)
 
 </div>
 
@@ -90,7 +90,7 @@
 
 <div align=center>
 
-![b141a71d3ed26e091aafa6d35ff54e4](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_213800829_0.jpg)
+![169-2](https://cdn.codegoudan.com/img/169-2.png)
 
 </div>
 
@@ -105,7 +105,7 @@ maxRight = self.getMajority(nums, mid + 1, right)
 
 <div align=center>
 
-![6a04944b65a5b5ed9341e89961118c9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_213832549_0.jpg)
+![169-3](https://cdn.codegoudan.com/img/169-3.png)
 
 </div>
 
@@ -118,7 +118,7 @@ if left == right:
 
 <div align=center>
 
-![b107fd1da80624b545339f0a85f23de](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_213926773_0.jpg)
+![169-4](https://cdn.codegoudan.com/img/169-4.png)
 
 </div>
 

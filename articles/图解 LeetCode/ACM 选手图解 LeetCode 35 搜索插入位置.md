@@ -6,7 +6,7 @@
 
 <div align=center>
 
-![973b7d869cb9abf6aad5debb88af7ca](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160302168_0.jpg)
+![35-0](https://cdn.codegoudan.com/img/35-0.png)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align=center>
 
-![575fe2f696e52b7f84ad6b23c0e41b8](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160429562_0.jpg)
+![35-1](https://cdn.codegoudan.com/img/35-1.jpg)
 
 </div>
 
@@ -98,7 +98,7 @@ target 在 nums 中没啥好说的，target 不在 nums 中，**无非就存在 
 
 <div align=center>
 
-![703023ab48e14a266b2a6fe0d406269](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160518219_0.jpg)
+![35-2](https://cdn.codegoudan.com/img/35-2.jpg)
 
 </div>
 
@@ -112,7 +112,7 @@ target 在 nums 中没啥好说的，target 不在 nums 中，**无非就存在 
 
 <div align=center>
 
-![c145b4ec8c405b23df78acbbe32bceb](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160542035_0.jpg)
+![35-3](https://cdn.codegoudan.com/img/35-3.png)
 
 </div>
 
@@ -124,7 +124,7 @@ low, high = 0, len(nums) - 1
 
 <div align=center>
 
-![1945c3fdf4c5326ca750ea0673c1ca9](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160612350_0.jpg)
+![35-4](https://cdn.codegoudan.com/img/35-4.png)
 
 </div>
 
@@ -136,7 +136,7 @@ mid = (low + high) // 2
 
 <div align=center>
 
-![6e7336193deece4b0e8b93fd7f622c3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160648647_0.jpg)
+![35-5](https://cdn.codegoudan.com/img/35-5.png)
 
 </div>
 
@@ -149,7 +149,7 @@ if nums[mid] > target:
 
 <div align=center>
 
-![d1171e6e95efb28f1313b6feabb3820](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160712623_0.jpg)
+![35-6](https://cdn.codegoudan.com/img/35-6.png)
 
 </div>
 
@@ -157,7 +157,7 @@ if nums[mid] > target:
 
 <div align=center>
 
-![e292b137b2a185c01480ed8d8ccd9d7](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160728146_0.jpg)
+![35-7](https://cdn.codegoudan.com/img/35-7.png)
 
 </div>
 
@@ -166,7 +166,8 @@ if nums[mid] > target:
 此时没有在数组中找到 target，证明 target 小于数组中最小的元素，所以插在下标为 -1 的位置，成为新的下标 0，即 high + 1。
 
 <div align=center>
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_160743443_0.jpg" alt="ceb3162ef6babfd5eaedff63eb642bf" style="zoom:50%;" />
+
+![35-8](https://cdn.codegoudan.com/img/35-8.jpg)
 
 </div>
 

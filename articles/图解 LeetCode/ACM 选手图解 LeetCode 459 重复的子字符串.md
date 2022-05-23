@@ -5,7 +5,8 @@
 已经很久没碰到要提交两次才能 AC 的题了。
 
 <div align=center>
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202523974_0.jpg" alt="ae62f6a5c5c25aae03f0f41a61a7c58" style="zoom:50%;" />
+
+![459-0](https://cdn.codegoudan.com/img/459-0.jpg)
 
 </div>
 
@@ -13,7 +14,7 @@
 
 <div align=center>
 
-![e84804884c9026ac13faea239eea97d](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202546982_0.jpg)
+![459-1](https://cdn.codegoudan.com/img/459-1.png)
 
 </div>
 
@@ -52,7 +53,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202718151_0.jpg" alt="9a538ad5b9c1d7c27ae137c67837904" style="zoom: 50%;" />
+![459-2](https://cdn.codegoudan.com/img/459-2.jpg)
 
 </div>
 
@@ -80,7 +81,7 @@ len(s) % (len(s) -  maxLen) = 0
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202803376_0.jpg" alt="3be8bd01b3cdb1bbf775929e91d6100" style="zoom:50%;" />
+![459-3](https://cdn.codegoudan.com/img/459-3.jpg)
 
 </div>
 
@@ -102,13 +103,13 @@ len(s) % (len(s) -  maxLen) = 0
 
 <div align=center>
 
-![4e166ecd5f77fc61ce47efcea7a6030](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202836035_0.jpg)
+![459-4](https://cdn.codegoudan.com/img/459-4.png)
 
 </div>
 
 <div align=center>
 
-![91c76734543396e27df8bbdd67bba16](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202849822_0.jpg)
+![459-5](https://cdn.codegoudan.com/img/459-5.png)
 
 </div>
 
@@ -127,7 +128,7 @@ or 前面那个我就不说了，maxLen == 0 即 next[len(s) - 1] == -1，找无
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_202945552_0.jpg" alt="4b6ffc34e97fe805fdb95aacd9bb65c" style="zoom:50%;" />
+![459-6](https://cdn.codegoudan.com/img/459-6.jpg)
 
 </div>
 
@@ -145,11 +146,17 @@ s[n - 1] != s[n - 1 - maxLen]
 
 <div align=center>
 
-![d90c456c4dae742652a3eaef4f6c879](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_203023580_0.jpg)
+![459-7](https://cdn.codegoudan.com/img/459-7.png)
 
 </div>
 
 大家一定要注意。
+
+<div align=center>
+
+![459-8](https://cdn.codegoudan.com/img/459-8.gif)
+
+</div>
 
 
 
@@ -257,6 +264,6 @@ class Solution {
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220122_203225123_0.jpg" alt="0a9789ae8a88942d6c0dc4b71ade963" style="zoom:50%;" />
+![459-9](https://cdn.codegoudan.com/img/459-9.jpg)
 
 </div>

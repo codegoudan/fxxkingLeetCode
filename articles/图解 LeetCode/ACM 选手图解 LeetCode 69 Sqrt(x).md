@@ -4,7 +4,7 @@
 
 <div align=center>
 
-![e5d1987c37587ede47bff3fd00f4d05](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_154737316_0.jpg)
+![69-0](https://cdn.codegoudan.com/img/69-0.png)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align=center>
 
-![994ffad45ade990f24089e709199096](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_154854481_0.jpg)
+![69-1](https://cdn.codegoudan.com/img/69-1.png)
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align=center>
 
-![8ac7d312596027c476c57b08f1b005f](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_154934965_0.jpg)
+![69-2](https://cdn.codegoudan.com/img/69-2.png)
 
 </div>
 
@@ -86,7 +86,7 @@ low, high, res = 1, x, -1
 
 <div align=center>
 
-![8ba3fc7377af8385d8e2426bb13f287](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_155011869_0.jpg)
+![69-3](https://cdn.codegoudan.com/img/69-3.png)
 
 </div>
 
@@ -98,7 +98,7 @@ mid = (low + high) // 2
 
 <div align=center>
 
-![8236920072ef6bb472619bf53f908ae](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_155047073_0.jpg)
+![69-4](https://cdn.codegoudan.com/img/69-4.png)
 
 </div>
 
@@ -111,7 +111,7 @@ if mid * mid > x:
 
 <div align=center>
 
-![fe0ba504908cb7b87bcdc3587343c53](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_155131472_0.jpg)
+![69-5](https://cdn.codegoudan.com/img/69-5.png)
 
 </div>
 
@@ -119,7 +119,7 @@ if mid * mid > x:
 
 <div align=center>
 
-![220be30242b80d71e73845a634b2283](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_155147243_0.jpg)
+![69-6](https://cdn.codegoudan.com/img/69-6.png)
 
 </div>
 
@@ -133,7 +133,7 @@ if mid * mid <= x:
 
 <div align=center>
 
-![f114db43ee95bec871d241bfe94f029](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_155212663_0.jpg)
+![69-7](https://cdn.codegoudan.com/img/69-7.png)
 
 </div>
 
