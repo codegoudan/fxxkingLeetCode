@@ -555,7 +555,8 @@ class Solution {
 
 ![qzhfdg-31](https://cdn.codegoudan.com/img/qzhfdg-31.png)
 
-<div>
+</div>
+
 
 ```Python
 stack = []

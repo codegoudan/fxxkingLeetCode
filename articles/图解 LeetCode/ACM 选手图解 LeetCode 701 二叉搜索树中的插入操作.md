@@ -14,6 +14,8 @@
 
 # LeetCode 701：二叉搜索树中的插入操作
 
+题目链接：[二叉搜索树中的插入操作](https://leetcode.cn/problems/insert-into-a-binary-search-tree/)
+
 
 
 ## 题意

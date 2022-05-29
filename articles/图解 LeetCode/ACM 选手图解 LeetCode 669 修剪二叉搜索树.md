@@ -18,6 +18,8 @@
 
 #  LeetCode 669：修剪二叉搜索树
 
+题目链接：[修剪二叉搜索树](https://leetcode.cn/problems/trim-a-binary-search-tree/)
+
 
 
 ## 题意

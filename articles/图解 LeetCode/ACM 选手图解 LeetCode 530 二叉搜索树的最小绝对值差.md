@@ -14,6 +14,8 @@
 
 # LeetCode 530：二叉搜索树的最小绝对差
 
+题目链接：[二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/)
+
 
 
 ## 题意
