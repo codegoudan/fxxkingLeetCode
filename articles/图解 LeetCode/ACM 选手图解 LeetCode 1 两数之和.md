@@ -1,6 +1,6 @@
 <div align=center>
 
-![904d89bf63eb7c99a18586738df23ce](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_092220010_0.jpg)
+![1-0](https://cdn.codegoudan.com/img/1-0.png)
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_092329188_0.jpg" alt="f172bf258e7d579463110cc7d888e19" style="zoom: 67%;" />
+![1-1](https://cdn.codegoudan.com/img/1-1.jpg)
 
 </div>
 
@@ -89,7 +89,7 @@ for i in range(len(nums)):
 
 <div align=center>
 
-![bc4dd2e90b761fb6ff99bffe520d8e3](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_092440699_0.jpg)
+![1-2](https://cdn.codegoudan.com/img/1-2.png)
 
 </div>
 
@@ -104,7 +104,7 @@ hash[nums[i]] = i
 
 <div align=center>
 
-![6a102dc73b43070a6b4fc29aa9c83bd](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_092507119_0.jpg)
+![1-3](https://cdn.codegoudan.com/img/1-3.png)
 
 </div>
 

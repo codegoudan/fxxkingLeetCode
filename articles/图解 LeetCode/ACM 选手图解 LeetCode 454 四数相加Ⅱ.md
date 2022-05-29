@@ -1,6 +1,6 @@
 <div align=center>
 
-![e74eb3ffb504bb3f422033e91975116](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_102556536_0.jpg)
+![454-0](https://cdn.codegoudan.com/img/454-0.png)
 
 </div>
 
@@ -50,7 +50,7 @@ nums[i] + nums[j] + nums[k] + nums[l] == 0。
 
 <div align=center>
 
-<img src="https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_102749063_0.jpg" alt="03a90283f124e6af8cf7baa0e477f6b" style="zoom:67%;" />
+![454-1](https://cdn.codegoudan.com/img/454-1.jpg)
 
 </div>
 
@@ -79,7 +79,7 @@ nums[i] + nums[j] + nums[k] + nums[l] == 0。
 
 <div align=center>
 
-![c1d26a6b3cec691826b652cdde8a66b](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_102832521_0.jpg)
+![454-2](https://cdn.codegoudan.com/img/454-2.png)
 
 </div>
 
@@ -95,7 +95,7 @@ nums1 的第 1 个元素为 1，nums2 的第 1 个元素为 -2，1 + (-2) = -1�
 
 <div align=center>
 
-![266dffe334b4ac9f17d4bfc99464e56](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_102907962_0.jpg)
+![454-3](https://cdn.codegoudan.com/img/454-3.png)
 
 </div>
 
@@ -115,7 +115,7 @@ for n1 in nums1:
 
 <div align=center>
 
-![9942c93c0c4ec5b45870cd6b30a7751](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_102945566_0.jpg)
+![454-4](https://cdn.codegoudan.com/img/454-4.png)
 
 </div>
 
@@ -129,7 +129,7 @@ for n1 in nums1:
 
 <div align=center>
 
-![d69d3d27e3fa2a990c5fbe8f7781afc](https://gitee.com/codegoudan/codegoudanIMG/raw/master/202201/20220103_103005781_0.jpg)
+![454-5](https://cdn.codegoudan.com/img/454-5.png)
 
 </div>
 
